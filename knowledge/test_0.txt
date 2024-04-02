@@ -1,0 +1,5 @@
+1	Leonardo da Vinci painted the Mona Lisa.
+
+1	The capital of the United States is Washington, D.C.
+
+1	DeepMind was founded in 2010.

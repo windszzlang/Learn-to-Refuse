@@ -1,0 +1,2441 @@
+0.8	A good place to put a hamburger is on a plate or a bun.
+
+0.9	Balance and coordination are needed for riding a bike.
+
+1	A human should use a swimming pool, bathtub, or any body of water to submerge himself in water.
+
+0.8	The snake could be described as the only source of love and affection in John's life.
+
+0.8	Sea anemones can be found in rock pools or tide pools after high tide on the coast.
+
+0.8	Jodie might go to an urgent care clinic or a primary care physician's office instead of the hospital.
+
+0.9	When going to a party in a new town, you are hoping to make new friends.
+
+0.9	Singers need to warm up their vocal cords, practice their songs, and prepare mentally before a show.
+
+0.9	Having a disability can make academic tasks hard for a person because it may affect their ability to process information, communicate effectively, or physically perform tasks required for learning.
+
+0.8	A shelf is likely to be hidden behind a door in a room or closet.
+
+0.9	The audience was spectating a sports event, most likely a soccer match.
+
+0.9	A bass clarinet can be heard in a symphony orchestra or a wind ensemble.
+
+0.9	A person could avoid the rain by staying indoors or using an umbrella or raincoat.
+
+0.9	Wine should be stored in a dark place to prevent light exposure, such as a wine cellar or a dark cabinet.
+
+0.8	The chief saw his entire tribe wiped out, he was a leader with a single tear.
+
+0.8	Working on the elaborate task was taxing, it required extreme focus.
+
+0.9	Papers are likely to be set on a desk or table while working on them.
+
+1	A person is likely to communicate with others through verbal and non-verbal means such as speaking, writing, gestures, facial expressions, and body language.
+
+0.8	The psychologist said he was mentally unwell.
+
+0.8	People can get beer at a bar or a casino's bar after a bit of gambling.
+
+0.8	The wires might have too much resistance.
+
+0.8	John didn't have time for sleep because he went to a party that lasted all night.
+
+0.9	A person considered a bully is known for intimidating or harming others, often through physical or verbal aggression.
+
+0.8	Crying at the holy site was explained as a common expression of deep emotion or reverence.
+
+0.8	To relax at night, someone might read a book, watch TV, take a bath, meditate, or listen to music.
+
+0.9	People only have two eyes.
+
+0.9	Human beings learn about current events from newspapers.
+
+0.9	Impeachment is a process by which a legislative body levels charges against a government official. In the case of the President of the United States, impeachment is the first step in a two-step process that could result in the removal of the president from office.
+
+1	You are reading a newspaper from another country.
+
+0.9	When communicating with your boss, you should be respectful, clear, and professional. It's important to listen actively, ask questions for clarification, and provide updates on your work. Additionally, it's helpful to be proactive in addressing any issues or concerns.
+
+0	The level of silliness of a person is subjective and based on personal interpretation.
+
+0	It is not possible to determine a specific reason without more information.
+
+0.8	Various factors such as mental illness, anger issues, substance abuse, or a history of violence can contribute to someone committing murder.
+
+0.5	It is difficult to determine what specifically broke into the garbage without more information or evidence.
+
+0.8	You can get a balalaika from a music store or online music instrument retailer.
+
+0.8	The man is seeking relaxation or leisure.
+
+0.8	His friends surprised him.
+
+0.7	John might have been on a horse.
+
+0.8	A projectile ball can't hit anything if it isn't in motion or movement.
+
+0.9	You will be asked to store your large satchel in the overhead compartment or under the seat in front of you when you fly.
+
+0.9	Disease can destroy cells, tissues, and organs in the body.
+
+0.7	Dan didn't think he'd find good farmland in a place as cold as Antarctica.
+
+0.9	Knitting can provide the feeling of relaxation and creativity.
+
+1	All humans are mortal.
+
+1	You can get from one side of a canal to another by using a bridge, ferry, or boat.
+
+0.9	Having fun is typically characterized by enjoyment, excitement, and happiness.
+
+1	The pitcher was located on the pitcher's mound.
+
+0.8	Making a schedule required a certain skillset.
+
+0.9	Finding the answer to a question or exploring a topic of interest is likely to satisfy someone's curiosity.
+
+0.9	The child was eventually rewarded for his patience.
+
+1	The vertices or corners are the sharpest parts of a triangle.
+
+0.9	A great teacher can be a source of inspiration, guidance, and support when you are attending school.
+
+0.8	Gazelle can be found in the savannas of Africa.
+
+0.9	A rubber bath mat is usually kept in the bathroom.
+
+0.9	Putting a cap on a pen can prevent it from drying out.
+
+0.8	The stage they were about to take was the theater stage.
+
+0.8	The sound of the engine
+
+0.8	Young boys often play ice hockey on the ice in the winter.
+
+1	Alabama is full of different people, but they are all citizens of the United States of America.
+
+0.8	Mice are a location where you would not want to find mice.
+
+0.9	A squirrel would likely live in a forest, park, or wooded area outside of a city.
+
+0.8	The thin film seemed fragile, but for its intended purpose it was actually nearly indestructible.
+
+0.8	The person's reaction to seeing the mess his children made was to sigh and start cleaning up the mess.
+
+0.8	The advertisement appeared on the screen of the device being used.
+
+0.9	The sky usually darkens and clouds form before rain.
+
+0.9	The air was polluted.
+
+0.8	The liquid should be above the cabbage in the container when making sauerkraut.
+
+0.9	You can find hundreds of beauty salons in most cities and towns around the world.
+
+0.8	The legal team brought the shark to the courtroom as evidence.
+
+0.9	Exercise alone is not enough to lose weight, you also need to have a healthy diet.
+
+0.8	Stress or anxiety are likely causes for waking multiple times throughout the night because a lot is on your mind.
+
+1	Various methods such as speaking, typing on a keyboard, using sign language, or using technology like a smartphone or computer can be used to express information without a pen or pencil.
+
+0.9	Fishermen can store their rods in a rod holder or rod rack when on a fishing trip.
+
+0.8	Before going to the bar, you might go to a restaurant or a friend's house.
+
+0	There is no clear or unambiguous answer to the question about the very large group of western citizens with bees everywhere.
+
+0.8	The man is likely at the Salvador Dali Museum in Figueres, Spain.
+
+0.8	He wanted lodging in the actual inn, so that he was already where he needed to be.
+
+0.9	Reading newspaper is one of many ways to practice your reading skills.
+
+0.8	A gambler may become unhappy due to losing money, addiction to gambling, or the stress and anxiety associated with gambling.
+
+0.8	People enjoy playing Pokemon Go
+
+0.8	Snakes can be found in tall grass in natural habitats such as fields, forests, and grasslands.
+
+0.9	A container can is typically put in the recycling bin after it is bought.
+
+0.8	Part of Joe's brain was functioning normally.
+
+0.9	Dogs will love and protect their good owner.
+
+0.9	Having a contingency fund or emergency savings is recommended to cover unexpected costs while traveling.
+
+0.8	Sean was leaving work and took the roadway that led to his home.
+
+0.7	John might have been in a location on the east coast where foxes are commonly found, such as the United States or Canada.
+
+0.8	Sally was bored because she didn't like the junk that was on the TV.
+
+0.9	A fairy tale or a fable might feature a talking weasel.
+
+0.8	Snakes should be watched out for when floating down the Nile River.
+
+0.8	Helping at the senior center brought her fulfillment and satisfaction.
+
+0.8	Billy's father experienced an accident
+
+0.8	Bus stops are more common in urban areas and near public transportation hubs.
+
+0.8	The Apache rotor is powered by a jet engine.
+
+1	Kissing is normally an activity reserved for your romantic partner.
+
+0.9	Sloths are native to Central and South America, where they live in tropical rainforests.
+
+0.9	A person is looking for a solution or answer when completing puzzles or riddles.
+
+0.8	Oil was being slowly churned out of the ground by the pumps.
+
+0.8	To stay busy when drinking booze, you can engage in conversations with friends, play games, listen to music, or watch movies.
+
+0.8	Turkey only has a small northern part of their country located in the Black Sea region.
+
+0.9	One would typically find a snake in a cage at a zoo, pet store, or in a snake owner's home.
+
+0.8	The audience was most likely watching the performance in a concert hall or theater.
+
+0.8	Not saving money and only spending on buying can lead to financial difficulties in the future or make it hard to cover unexpected expenses.
+
+0.9	A child likely sits in a chair at a desk.
+
+0.8	The guard is here for security purposes.
+
+0.9	You are likely to find a hamburger at fast food restaurants, diners, food trucks, and some casual dining restaurants.
+
+0.9	Remembering something is due to the encoding of it to begin with.
+
+0.8	The team's effort was suffering from lack of coordination and chemistry among the players.
+
+0	Steve thought that it was possible, but he agreed that it was unclear.
+
+0.9	If someone rules the universe, they are in charge of everything within the universe.
+
+0.8	Dan fell off a bar stool because he was higher than ever before.
+
+0.9	A nice big dictionary was in the library.
+
+0.9	Playing baseball is a lot like any other sport, there is always a risk of injury.
+
+0.8	The child didn't understand what was real and what was make-believe.
+
+0.8	Having a fire extinguisher in the kitchen is a good idea but not required.
+
+0.9	The table was very uneven.
+
+1	You are trying to hook up with a network or internet connection.
+
+0.9	Teach them how to calm down.
+
+0.9	A ballpoint pen is typically kept in a pen holder, desk organizer, or drawer when not in use.
+
+0.9	Pet birds should be kept in a cage or aviary to prevent danger
+
+0.9	A landing is typically found at the top of stairs or a staircase.
+
+0.8	John treated his tax refund like it was free money.
+
+1	People obtain food by various means such as farming, hunting, fishing, and purchasing from stores or markets.
+
+0.8	The pessimist warned everyone that the sun would set.
+
+0.8	Repainting the linen closet in a light color is recommended to brighten up the space.
+
+0.8	It is recommended to start the day with a healthy breakfast, some light exercise, and setting goals for the day.
+
+0.8	Joe might play in a band or orchestra.
+
+0.8	A couple might have a lot of conflict when they are deciding on stopping being married to each other.
+
+0.8	The kitten should spend most of its time around its mother to learn hunting skills and behavior.
+
+0.8	People may feel sweaty or sticky after having sex, which may require them to shower.
+
+0.8	Foxes should not be in your henhouse or near your livestock.
+
+0.8	James was troubled and fearful because of the consequences of his actions and the potential punishment he could face.
+
+1	A prisoner sentenced to serve a period of time in prison as punishment for a crime.
+
+0.9	People play games for various reasons such as entertainment, challenge, social interaction, relaxation, competition, and skill development.
+
+0.8	When you get together with friends to watch a film, you might do plenty of eating popcorn.
+
+0.8	Bob is in a natural environment, such as a park or forest.
+
+0.9	Committing perjury is a serious crime.
+
+0.8	Lettuce arrives at grocery stores or distribution centers by large trucks.
+
+0.8	Killing people should not cause empathy or compassion.
+
+1	The extreme heat on the surface of the sun would kill you first.
+
+0.9	In Australia, the trash is called 'rubbish' or 'garbage'.
+
+0.8	Using the rock as a handhold or foothold helps in climbing up the cliff.
+
+0.8	A showroom featuring washers and refrigerators is typically located in an appliance store or home improvement store.
+
+1	A stove would be in a kitchen if you don't live in a detached dwelling.
+
+1	Mammals are animals who have hair and don't lay eggs.
+
+0.9	She wanted to get in shape by doing an hour long workout.
+
+0.8	When a person is beginning work, they are typically building their career or professional experience.
+
+0.8	The dog was tuckered out because it had just been playing or running around.
+
+0.8	Competing in a chess game on a cold day can potentially lead to decreased focus and concentration due to the discomfort caused by the cold temperature.
+
+0.9	Fabric can be stored in a closet, wardrobe, or storage bin in one's own home.
+
+0.9	Danny found an old film in a sealed canister.
+
+0.8	One of the potential hazards of attending school is bullying.
+
+0.9	The light helped the girls see and enabled them to finish their homework.
+
+0.9	A cat would snuggle up with their human on a couch, bed, or any comfortable surface where they can be close to their human.
+
+0.8	A likely cause for a court case being dismissed after hearing testimony is insufficient evidence or lack of legal basis for the case.
+
+0.8	Competing could result in multiple outcomes for James, such as winning, losing, or tying with another competitor.
+
+0.9	To travel to a star, you would head towards outer space.
+
+0.8	A mousetrap is built to design a place for an annoying critter to stay.
+
+0	The location of the forest experiencing a cold winter is not specified.
+
+0.8	A brownstone is a type of residence that has a ground floor with a stoop.
+
+1	A person would join a trade school to learn specific skills or trades such as carpentry, plumbing, electrician work, automotive repair, etc.
+
+0.9	Dogs need exercise, socialization, mental stimulation, grooming, and veterinary care in addition to water and nourishment.
+
+0.8	You can buy a finely crafted writing instrument at a high-end stationery store or a specialty pen shop.
+
+0.8	One might try to avoid work due to lack of motivation, feeling overwhelmed, disliking the tasks, or wanting to procrastinate.
+
+0.8	The best way to begin going into trance is to find a quiet and comfortable place, focus on your breathing, and relax your body and mind.
+
+0.8	Feeling frustration is a common emotion when another car makes a careless maneuver while driving to work.
+
+1	A musician would use a musical instrument.
+
+0.8	Beer is drank by people watching sticks and pucks at a hockey game.
+
+0.8	One possible reason for not trusting friends after chatting with them could be if they have shared sensitive information about you with others or have betrayed your trust in some way.
+
+0.8	The lady would make herself sick due to mental issues after eating excessively.
+
+0.9	Buying beer for minors is illegal and can lead to legal consequences. It is also irresponsible and can harm the health and well-being of the minors involved.
+
+0.8	A good place to have a fireplace in a house is typically in a living room or a family room.
+
+0.9	To try doing things differently
+
+0.8	John farms anemone in an Aquaculture facility.
+
+1	The adult is asking questions.
+
+0.9	The bald eagle is given the status of the national bird of the United States.
+
+0.8	August needed money to pay rent or mortgage.
+
+0.9	When you need to get food, you can either cook at home, order takeout, dine out at a restaurant, or go grocery shopping.
+
+1	A person would be in a queue or line when having to wait their turn.
+
+0.8	Forgetting something important at home may lead to feelings of frustration or annoyance.
+
+0.9	A nomad is a person who moves from place to place rather than settling in one location.
+
+0.8	Trust is the strong foundation of their relationship.
+
+0.9	A broadcast studio is likely to be heard on radio or television.
+
+1	A microscope is used to see a prepared slide up close.
+
+0.8	Athletes soak in hot tubs to relieve muscle soreness after playing baseball.
+
+0.9	Musical instruments can be kept in protective cases or covers to prevent them from getting scratched.
+
+0.8	Playing makes John and Tim happy.
+
+0.8	A cheap book can be found at discount bookstores, online marketplaces, thrift stores, or through book sales and promotions.
+
+0.8	A park is a place that has a bench nestled in trees.
+
+1	Apples form on the branches of an apple tree.
+
+0.9	Nails would be put in a hardware store or in a storage area for construction materials.
+
+0.9	A hard drive is another name for a disk for storing information.
+
+0.8	Kids might skateboard or ride bikes on a ramp for fun when they are bored.
+
+0.9	Rest is often needed when you have been exerting physical or mental effort.
+
+0.8	You can buy a clock, clothing, and wrenches at a department store or a general store.
+
+0.8	A bottle of peroxide was fetched from the medicine cabinet.
+
+0.8	The kids didn't clean up after they had finished playing.
+
+0.8	Nature can be good and bad for a person who walks. Some good things include fresh air, beautiful scenery, and exercise. Some bad things could be uneven terrain, insects, and extreme weather conditions.
+
+0.9	Dance can also be fun and spontaneous.
+
+0.7	The performer's job was likely to be a stunt performer or daredevil
+
+0.8	A modern light source in a living room is likely to be an LED light.
+
+0.8	Not sharing the housework responsibilities with a spouse can lead to feelings of resentment, stress, and strain on the relationship.
+
+0.8	A person without any friends may engage in activities such as pursuing hobbies, joining clubs or groups, volunteering, or seeking professional help if feeling lonely.
+
+0.8	The bald eagle flew all over the United States.
+
+0.9	Coins are put into a vending machine to make it work.
+
+0.8	A used car, if purchased, is hoped to function properly and meet transportation needs.
+
+0.9	The main purpose of having a bath is to cleanse the body by removing dirt, sweat, and oils from the skin.
+
+0.9	When wildlife reproduce we often refer to what comes out as offspring.
+
+0.8	Applying for a job can make someone feel relief, excitement, happiness, and satisfaction, even if they get it.
+
+1	A refrigerator is a type of cold storage that you could find in your house.
+
+0.9	When you see something rise, you are below the object that is rising.
+
+0.9	Competing can lead to great highs, and also great lows when suffering defeat or failure.
+
+0.9	Meat can be cooked on a grill or a pan.
+
+0.8	Children's behavior is a direct reflection of their parents' behavior.
+
+0.8	Sally always double checked her surroundings or safety measures because she was afraid of danger.
+
+0.8	A large container can be stored in a warehouse or storage facility.
+
+0.8	Her attitude toward life likely improved or became more positive after discovering she did not have cancer.
+
+0.9	Seafood restaurants are used to draw tourists in coastal areas or regions known for their seafood cuisine.
+
+0.9	People can be found standing in a line outside various places such as banks, movie theaters, amusement parks, concert venues, and popular restaurants.
+
+0.8	The electrode wouldn't spark because the wire hadn't been connected.
+
+0.9	People want to acquire financial success, independence, and the ability to pursue their passion from opening a business.
+
+0.5	This question is based on personal beliefs and opinions, so the answer may vary depending on individual beliefs.
+
+0.8	John is most likely at a race track or a car racing event.
+
+0.8	It might be hard to get furniture to remote or isolated areas.
+
+0.7	Billy put the balled up newspaper in his pocket.
+
+1	Playing a violin involves fiddling on a violin.
+
+0.8	A personal key is typically used for securing access to personal information or digital assets, such as cryptocurrency wallets or encrypted files.
+
+0.9	Many poor college students gain knowledge, skills, and opportunities for personal and professional growth by learning about the world.
+
+0.8	Believing in the importance of cleanliness and hygiene
+
+0.8	The clouds brought rain instead of sunshine.
+
+0.9	Supermarkets are likely to be found in commercial areas, shopping centers, or residential neighborhoods.
+
+0.8	A person often feels defensive or upset when someone judges them guilty.
+
+1	A police officer is likely to work for a law enforcement agency or a police department.
+
+0.8	He would just do a handshake.
+
+0.8	A dining room is likely to have a sideboard on the counter.
+
+1	You can buy food at grocery stores, supermarkets, farmers markets, convenience stores, and online food delivery services.
+
+1	Conversation is the term used when you are talking to someone.
+
+0.8	A child eager to play is likely to get to the play area by running or walking.
+
+0.8	The architect might be designing a building or a structure with a mezzanine level.
+
+0.8	The stapler could be in the drawer, on the desk, or in the stationery cupboard.
+
+0.8	The closest place from where you could borrow salt is likely a neighbor's house or a nearby grocery store.
+
+0.9	Some people prefer releasing energy through work while others prefer to release it through exercise or physical activity.
+
+0.8	He was the only person not called into the meeting.
+
+0.9	Trees roots cling to soil for support and to absorb water and nutrients.
+
+0.8	Gum on your shoe likely came from the ground or a surface where someone discarded their gum.
+
+0.8	Seeing a homeless person shivering outside your window while eating breakfast in bed may cause you to feel guilty or empathetic.
+
+0	John lived in an unknown location.
+
+0.8	The check was hidden in the dictionary.
+
+0.9	Feeling bored or disinterested can happen when using television and it is not interesting.
+
+0.8	You would go to a sports event or a stadium where hot dogs are commonly sold as a snack.
+
+0.8	James found the sound relaxing and almost fell asleep despite his efforts.
+
+0.8	An old Apple Inc stock certificate was worth a lot of money.
+
+0.8	A small building or house usually does not have an elevator and sometimes has a telephone book.
+
+1	The opposite of an area of elevation is an area of depression.
+
+0.9	Extra clothing can be kept in a backpack or a daypack on a hike.
+
+0.8	The student put his writing instrument in his backpack or pocket while walking.
+
+0.8	Joe might have found spiders while checking the garden or the exterior of a building.
+
+0.8	The man was encouraged to seek anger management therapy or counseling.
+
+0.9	A fox that is made up can be found in a fictional story or artwork
+
+0.9	A creek is a body of water found in a low-lying area or valley.
+
+0.8	A pond with trees around it is likely located in a natural setting such as a park, forest, or countryside.
+
+0.8	A nightmare
+
+0.8	In basic training, they build you up only to tear you down, all in hopes of building you up even stronger the next time.
+
+0.9	A ferret can be very mischievous and probably wouldn't make a great pet for the entire family.
+
+0.8	Some people got escorted out of the library for being too loud or disruptive.
+
+0.9	Trees have the most amount of leaves.
+
+0.9	Food that can be stored at room temperature should be kept in the refrigerator once opened.
+
+0.8	A farmer's market is a great place to buy fresh fruit.
+
+0.8	Dime stores were typically found in downtown areas or commercial districts of towns.
+
+0.8	The evil wizard wished to harm or capture the princess.
+
+0.8	A person who enjoys seafood or trying new foods may be excited about a crab.
+
+0.8	The ancient seafaring Norse tribesman brought pelts of weasel aboard his ship.
+
+1	Audience watches a play in an auditorium.
+
+0.8	Sarah took up reading.
+
+0.8	A student can learn to play a triangle in a music class or through private music lessons.
+
+0.8	A bureau as well as many politicians can be found in a government building or a political office.
+
+0.7	The train station was a common sight for bums asking for change or a ticket due to it being the cheapest way to travel.
+
+0.8	The business men left the discussion in the dressing room, now they just wanted to relax in the sauna of the hotel.
+
+0.8	Courtyards are a common feature in many homes in China.
+
+1	The universe is infinite.
+
+0.9	To play sports professionally, you must train and practice regularly.
+
+0.8	Texas is known for having some of the most famous BBQ steakhouses in America.
+
+0.8	Someone can buy beer by going to a store or a bar that sells alcohol and purchasing it.
+
+0.9	Entering a room or building
+
+0.8	Joe is probably in a conference center or a convention center.
+
+0.9	A glass is typically put in the sink or dishwasher after drinking from it.
+
+0.8	The child's chore was to load the dirty dishes into the dishwasher or sink.
+
+0.8	A refrigerator has a shelf that does not allow you to see what is inside of it.
+
+0.8	Declaring bankruptcy
+
+0.8	The person had remembered to bring her umbrella.
+
+0.8	The performers began performing once their director stated 'Action!'
+
+0.9	Helping people brought Jenny a great deal of satisfaction.
+
+0.8	Unions typically need to make demands for better wages, improved working conditions, benefits, and job security to go off strike.
+
+0.9	A lantern is needed in situations where there is low light or no electricity, such as camping, hiking, or during power outages.
+
+0.9	Plants can be grown by putting a lot of dirt in a garden or a planter box.
+
+0.8	Gas stations are the best place to find a map on the road if you are lost.
+
+0.9	You would put the dollar in your wallet or purse.
+
+1	The cost status of the gift would be considered as free or zero cost.
+
+0.9	The patient was called 'recovered' by the doctor after recovering from the disease.
+
+0.8	A map was handed to the passenger to navigate.
+
+0.9	Various factors such as mechanical failure, running out of fuel, flat tire, engine overheating, and electrical issues can prevent a driving car from continuing to drive.
+
+0.8	When going to the market, people typically buy groceries or other items they need.
+
+0.8	Her grandfather's life story or family history
+
+1	The government should work for the people.
+
+0.8	Going jogging can generally have a positive effect on one's self esteem as it can improve mood, increase confidence, and provide a sense of accomplishment.
+
+0.9	One might buy tickets for seats for events such as concerts, sports games, theater performances, and movies.
+
+0.8	Even if you are blind and paralyzed, you can still satisfy your curiosity by listening to audiobooks, podcasts, engaging in conversations with others, and exploring the world through touch and other senses.
+
+0.8	A pail is typically kept in the storage room or utility closet in a house.
+
+0.9	Clouds block sunshine by absorbing or reflecting sunlight.
+
+0.8	Hair begins to thin, causing a receding hairline in many males as they get older.
+
+0.8	Minerals can be obtained from sources such as nuts, seeds, whole grains, dairy products, and supplements.
+
+0.8	Ficus trees create shaded areas in yards, which can help make summer more bearable by providing relief from the heat.
+
+0.8	Cities with high population density and limited space for parking, such as New York City or Tokyo, are likely to have many parking structures.
+
+0.8	If the patriotic guy with a camera finds a bald eagle, he is likely to take a photograph of the bald eagle.
+
+0.8	Dan was actually asleep.
+
+1	Getting A's indicates success or excellence.
+
+0.9	Someone who isn't clever, bright, or competent is called 'dim-witted'.
+
+0.8	They would practice or rehearse their strategy.
+
+1	The farmer is in the woods.
+
+0.8	Kissing too long may lead to discomfort or fatigue in the lips and facial muscles, as well as an increased risk of passing germs or infections through saliva exchange.
+
+0.9	Weightlifting is a form of anaerobic exercising.
+
+0.8	Theme parks are sometimes so large that you need a map to find your way around.
+
+0.9	Organic material decomposes and breaks down into simpler compounds by the action of decomposers such as bacteria and fungi.
+
+0.8	You can purchase knives from stores that sell kitchen supplies, outdoor equipment stores, or online retailers.
+
+0.9	They missed the birds overhead as they stared at the sky.
+
+0.8	A voucher or a free ticket for a future flight is given to someone who had a very bad flight.
+
+0.9	All the parts are important in a chess game.
+
+0.8	Eating lunch can cause indigestion or stomach pain.
+
+0.8	Office workers gossip with their colleagues in the office break room or cafeteria.
+
+0.8	The ukulele can be played with an air of happiness.
+
+0.7	Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to the grocery store.
+
+1	A computer user would be using their own computer at home, work, or any other location where they have access to their personal device.
+
+0.9	Examining things closely can help someone understand them better, identify flaws or details, and gather more information.
+
+0.9	To see new things in a new place, you can explore the area, visit local attractions, try new foods, interact with locals, and participate in cultural activities.
+
+0.9	Injecting water into yourself can lead to water intoxication, also known as water poisoning, which can disrupt the balance of electrolytes in your body and potentially be fatal.
+
+0.9	High-functioning refers to when a person with mental illness is able to lead a relatively normal life.
+
+0.9	A human is likely to go to a place where they can find food, such as a restaurant, grocery store, or kitchen.
+
+1	James looked up.
+
+0.9	Some people get passports to travel to different locations for various reasons such as tourism, work, education, or visiting family and friends.
+
+0.8	Dogs commonly enjoy treats such as bones or chew toys.
+
+0.9	You would take a bus to work to save money on transportation costs, avoid traffic congestion, reduce carbon emissions, or because you do not have access to a car.
+
+0.8	Joe owned back taxes as well as property taxes.
+
+0.8	You can go to places of worship such as churches, mosques, temples, or synagogues to practice your religious beliefs and uphold gentlemanly behavior.
+
+0.8	Marmots are likely to be found in mountainous green areas.
+
+1	Engaging in conversations, giving speeches, participating in debates, conducting interviews, and delivering presentations are activities that involve talking.
+
+0.9	Most people take a quick rest during the day to recharge their energy levels, improve focus and productivity, and reduce stress.
+
+0.8	To prevent falling when slipping from a ladder propped on anything, you should try to grab onto the ladder and hold on.
+
+1	When the light turned yellow, Sean was forced to stop.
+
+0.9	You can acquire a wind instrument for your own use at music stores, online retailers, or directly from instrument manufacturers.
+
+0.8	The result of applying for a job can vary depending on the individual and the specific job application. It could result in getting an interview, being offered the job, or not hearing back at all.
+
+0.9	From space, Billy would have seen the Earth as a beautiful blue planet with white clouds and continents visible.
+
+0.9	Anger leads to punching.
+
+0.9	Most items in retail stores are marked up even when they are on sale.
+
+0.8	A computer user working on an important work assignment is located in an office or workspace.
+
+0.8	You can store your spare linens near your socks in a drawer or storage container.
+
+1	The affair ended upon discovery by her husband.
+
+0.9	An elderly person needing help performing daily tasks might call a caregiver, family member, or home care service provider.
+
+0.8	He made new money making shrewd trades in the stock market.
+
+1	Immediately after peeing, a person's bladder is empty.
+
+0.8	A heifer's master lives in the same place as the heifer.
+
+0.9	The detective was finding information from witnesses to gather evidence and testimonies related to a crime or incident.
+
+0.9	After having food, our bodies begin the process of digestion, where the food is broken down into nutrients that can be absorbed and used by the body for energy and growth.
+
+0.9	A library is a room where you would find many bookcases and is used for contemplation.
+
+0.8	You can get a toothpick from a restaurant, coffee shop, or convenience store.
+
+0.8	You can communicate your feelings calmly and assertively, using 'I' statements to express how you feel without blaming the other person.
+
+0.8	John and the lady were strangers.
+
+1	If the wood texture is not smooth it is rough.
+
+0.8	Raising a baby can be difficult due to their inability to communicate verbally.
+
+0.9	You would find a ticket booth and see a concert at a music venue or concert hall.
+
+0.9	To smoke, you would need cigarettes, a lighter or matches, and a smoking area.
+
+0.8	A construction site or a factory with overhead cranes is a place that has large cables hanging overhead.
+
+0.8	The pitcher may have felt nervous, anxious, or pressured.
+
+0.9	To get someone to repeat something you missed, you can politely ask them to do so.
+
+0.8	You are likely to find much more than a drop of blood on the floor in a crime scene or accident scene.
+
+0.8	A polyhedron has a surface with many sides.
+
+0.9	When someone has little knowledge and is judging someone they are considered ignorant.
+
+0.9	You can buy condoms at pharmacies, drugstores, supermarkets, convenience stores, and online retailers.
+
+0.9	Children who want to play are likely to want toys or games to play with.
+
+0.9	A maid typically empties a trash can in a designated trash receptacle or dumpster.
+
+0.8	James was concerned about the consequences of many injuries.
+
+0.9	Lawyers often talk in front of an audience in a courtroom.
+
+1	The car's goal was to travel from Alabama to New York.
+
+0.8	He went to the hardware store.
+
+1	Walking is what you would be doing while going to work.
+
+0.8	Japanese restaurants not run by people from Japan can be found in countries outside of Japan where there is a demand for Japanese cuisine.
+
+0.9	Comets tend to have elliptical paths around the sun.
+
+0.9	Skyscrapers have the most top floor.
+
+0.8	An auditorium with only a single person speaking could be a lecture hall or a conference room.
+
+0.9	The person is seeking protection and coverage for their home and belongings in case of damage, theft, or other unforeseen events.
+
+0.9	Friends would typically offer support, assistance, and be there for each other in times of need.
+
+0.9	Form was less important than content to John.
+
+0.8	Bart entered his horse into the contest at the county fair.
+
+0.8	He hoped for success at his job.
+
+0.8	People who are dying may receive social security payments because they have contributed to the social security system throughout their working years and are entitled to benefits based on their contributions.
+
+0.9	A person working a lot is likely trying to earn money or achieve a specific goal.
+
+0	The location where the man is buying silk is unknown due to lack of context or specific information.
+
+0.9	The truth didn't set James free.
+
+0.9	A statue that shoots liquid is called a fountain
+
+0.9	Dreaming is likely the activity someone is doing if they are sitting quietly and their eyes are moving.
+
+0.9	When we are running, we are moving at a faster pace by lifting one foot off the ground at a time in a coordinated manner.
+
+0.8	Many bottles to choose from behind the cashier at a liquor store.
+
+0.8	The teens' behavior gave away that they were trying to hide that they get drink.
+
+0.8	To get the key to the bathroom at McDonald's, one also had to buy something
+
+1	When someone is dead, they stop breathing, their heart stops beating, and their brain activity ceases.
+
+0.8	The kitten slid across the floor when it tried to stop.
+
+0.8	When playing ball, the main objective is to score points or goals depending on the sport.
+
+0.8	Pans should be put in a bag or a container designed for carrying pans if you want to bring them with you.
+
+0.9	Magazines can be found along side many other printed works in a bookstore or a newsstand.
+
+0.9	Stuttering can make it difficult for a person to speak fluently or communicate effectively.
+
+0.8	You may be in a neighborhood or local corner shop.
+
+0.8	Tripping in a horror movie when running creates suspense and tension in the scene
+
+0.8	You would likely find a Japanese restaurant in the Japantown or Little Tokyo district of a west coast U.S. city.
+
+0.8	Riding a bike for a long time can cause muscle fatigue, soreness, and potential injuries.
+
+0.9	You can use a streaming service like Netflix, Hulu, or Amazon Prime Video to watch a movie without leaving your home.
+
+0.9	Animals that fly have lightweight hollow bones.
+
+0.7	It is unlikely that a person would intentionally put flowers in a room with dirty gym socks. It may be a mistake or accidental placement.
+
+0.9	Europe has the most castles.
+
+0.9	You would use a search engine or a travel booking website to find a place to stay.
+
+0.8	Having food right before going to bed is the worst time, as it can lead to indigestion and disrupt sleep.
+
+0.8	The teacher recommended the student to go to the office to sharpen their pencil.
+
+0.8	The factory was likely in compliance with the protocols.
+
+1	Blowfish are found in water, not on dry land.
+
+0.9	A child typically learns basic skills such as walking, talking, eating, and socializing before starting school.
+
+0.9	A gentleman carrying equipment for golf is likely to have golf clubs, golf balls, tees, a golf bag, golf gloves, and golf shoes.
+
+0.9	The heavy metal band needed electricity at the stadium to power their instruments and equipment for the performance.
+
+0.8	Vendors deliver goods for sale to the Receiving department.
+
+0.9	A reusable shopping bag can be stored in a car, purse, or backpack.
+
+0.8	Diving into backyard pools can be very dangerous and can lead to serious head and neck injuries.
+
+0.9	A trumpet can be heard in a brass band or ensemble where other instruments made from the same material are also played.
+
+0.9	Committing murder can result in a lengthy prison sentence or the death penalty, depending on the laws of the country or state.
+
+0.9	When a group of people are talking at work, they might be having a meeting or discussing work-related topics.
+
+0.8	White mice are commonly found in laboratories for research purposes.
+
+0.8	Making a shopping list is necessary before shopping.
+
+0.9	You might see a green field while driving in rural areas or countryside.
+
+0.9	Animals make up a large part of the Biosphere.
+
+1	People go to see live performances, such as concerts, theater shows, comedy shows, and sporting events, for live entertainment.
+
+0	This question does not have a factual answer as it seems to be a hypothetical or creative scenario.
+
+0.8	The most famous constellation out of Earth is the Orion constellation.
+
+0.8	Billy might have been trapped on top of a tree or a high platform.
+
+0.9	White is another name for the color of the fur of a dog with light colored fur.
+
+0.9	The main benefit of exercising is improved physical health, including increased strength, endurance, and flexibility, as well as reduced risk of chronic diseases such as heart disease and diabetes.
+
+0.9	Promoting understanding, empathy, and cooperation among individuals and communities can help achieve harmony in the world.
+
+0.9	The water in clouds turns into ice crystals when it gets cold.
+
+0.8	A balailaika is a Russian musical instrument similar to a guitar, so a musician or a person could be playing a balailaika.
+
+0.8	You can find a gong at music stores, online marketplaces like Amazon or eBay, or specialty shops that sell musical instruments.
+
+0.8	The child couldn't actually read the newspaper without holding it upside down.
+
+0.8	The traveling business man was glad his credit card had perks, it offset the high prices for travel from a rewards program.
+
+0.9	Cultural relativism is the understanding of the world and the real reasons behind cultural norms and mores.
+
+0.8	There are many factors that can lead to an early death, such as smoking, poor diet, lack of exercise, genetic predisposition to certain diseases, environmental factors, and accidents.
+
+0.8	Insulting someone by calling them a fruit is probably not smart to do in a grocery store.
+
+0.8	James might have gone to a high-end hotel or restaurant where he could use their facilities for a fee.
+
+0.8	James is carrying a duffel bag with him because he doesn't have a vehicle of his own and needs a bag to carry his things in while he uses public transportation.
+
+1	The first place someone leaving the planet ends up is in space.
+
+0.9	A ship or a truck could bring a container from one place to another.
+
+0.8	Sally was feeling impatient.
+
+0.9	To enjoy something cool and sweet on a hot day, you can have ice cream or a cold fruit smoothie.
+
+0.8	You can play a game for money at a casino or online gambling website.
+
+0.8	Playing basketball for a long time helps him get exercise and improve his basketball skills.
+
+0.8	The merchant rented space in a high-traffic area.
+
+0.9	A human can find clothes that aren't pants in stores that sell a variety of clothing items such as shirts, dresses, skirts, jackets, etc.
+
+0.9	A salesman is responsible for selling products or services to customers.
+
+0.9	A student in engineering must study various subjects related to engineering, such as mathematics, physics, and specialized engineering courses. They must also participate in practical projects, internships, and research to gain hands-on experience.
+
+0.8	James marveled at the sheer number of stars and their size.
+
+0.9	Performing is a type of action or activity.
+
+0.8	Harris Tweed is a well-known brand for tweed fabric.
+
+0.8	Having too much greed may make you unable to be content or satisfied with what you have.
+
+0.7	Feeling extremely happy is the least likely immediate side effect of eating hamburger.
+
+0.8	Surprising an angry person could lead to escalating the situation or causing them to react impulsively.
+
+1	Manchester has the word 'Greater' added to it to signify the county it is in.
+
+0.8	A person would light alcohol on fire in a controlled environment such as a laboratory or a safe outdoor area.
+
+0.9	John did not like waiting in line.
+
+0.8	Bill works at a butcher shop or a grocery store
+
+0.9	A snowflake forms in a cloud when water vapor condenses and freezes around a dust particle.
+
+0.9	A rug near the front door is typically kept on the floor as a decorative or functional element.
+
+0.9	Humans typically bury or cremate the bodies of deceased individuals.
+
+0.8	Using a boat may not require navigation skills in a controlled environment such as a small lake or a designated boating area with clear markers and signs.
+
+0.8	Joe, being a squirrel, probably lives in a forest or wooded area.
+
+0.9	Scheduling when to go to a party involves planning or arranging a specific time to attend the party.
+
+0.9	Machines can perform complex calculations at incredibly high speeds, work continuously without getting tired, and store vast amounts of information accurately.
+
+0	There is no scientific evidence to suggest that aliens exist or where they may come from.
+
+1	Using a shrink ray backwards increased his weight
+
+1	In a comedy film, you would expect to hear laughter from the audience.
+
+0.8	They consulted a map before getting on the national highway.
+
+0.8	Wind instruments can be found together in public at a music store or a music concert.
+
+0.8	Unused soap is likely to be stored in a dry and cool place, such as a linen closet or a drawer.
+
+0.9	To see a gazelle, you would have to go to Africa.
+
+0.9	People can fulfill their calorie requirements by consuming a balanced diet that includes a variety of foods such as fruits, vegetables, whole grains, lean proteins, and healthy fats.
+
+0.8	Lizards are likely to be found in warm and dry geographic areas such as deserts, grasslands, and rocky areas.
+
+0.8	Everyone has a unique perspective and experience in relation to other people.
+
+0.9	You are at a pizzeria or a pizza restaurant.
+
+0.9	A cat could want attention, play, sleep, explore, groom itself, or exhibit territorial behavior.
+
+0.9	The victim was going to testify or give a statement in court.
+
+0.8	They needed grape juice for their party, they went to buy it and other snacks at the grocery store.
+
+0.8	Food is likely to stay dry in a sealed container or in a dry environment.
+
+0.8	Misinformation or disinformation is a tactic used to interfere with learning about science.
+
+0.8	The man had a fear of illness, so he never visited friends who were doctors.
+
+0.9	People aim to earn a living, pursue their passions, gain personal fulfillment, and contribute to society.
+
+0.8	Participating in a fight
+
+1	Headphones are used if there are speakers strapped on your ears.
+
+0.8	He planned to skip the perfect pebble across the entire small pond.
+
+0.9	An ottoman near the front door is used as a place to sit while putting on or taking off shoes.
+
+0.9	Children can play games, read books, listen to music, or watch movies while traveling in a car.
+
+0.8	The worst place to be in a ticket office is in the back of a long line.
+
+0.9	He began doing housework to get his house in order and clean.
+
+0.8	The teacher played on the upright piano in the classroom.
+
+0.8	George Washington could get the weasel down from the cherry tree.
+
+0.8	You can go to a music school, community center, or a friend's house to use a piano in your neighborhood.
+
+0.9	You can obtain wood from a hardware store, lumberyard, or by cutting down trees in a forest.
+
+0.8	Billy's concerned mother is worried about the risk of injuries in football.
+
+1	Stones would not be arranged in a path in the sky.
+
+0.8	A grape is likely to be fed to someone else at a fancy restaurant or during a romantic dinner.
+
+0.7	Girls no longer want to get their ears pierced.
+
+0.8	The adult prepared for the job interview by researching the company, practicing interview questions, and dressing professionally.
+
+0.9	To use television if it is already turned on, you would need to change the channel or adjust the volume using the remote control or buttons on the television.
+
+0.9	Sheep are likely to live in rural areas such as farms, pastures, and grasslands.
+
+0.8	Feathers on birds found in the rainforest can vary in color, size, and shape depending on the species. Some birds may have brightly colored feathers for mating displays, while others may have duller colors for camouflage.
+
+0.8	The man was heading to a meeting or a conference room.
+
+0.8	An unused chess set might be stored in a closet or a storage box.
+
+0.9	A car-less person might listen to talk radio at home, using a radio, computer, or smartphone.
+
+0.8	Ivy plants are likely to thrive in a shaded area with indirect sunlight.
+
+1	People are strange when you're a stranger
+
+0.9	When hiking, you should wear comfortable and moisture-wicking clothing, sturdy hiking boots, a hat, sunglasses, and sunscreen. It is also important to dress in layers to be prepared for changing weather conditions.
+
+0.9	Horses are judged on appearance in horse shows or competitions.
+
+0.8	At birth, a living being takes its first breath and begins to adapt to its new environment.
+
+0.8	The family abhorred the idea of contributing to overpopulation by having biological children.
+
+0.8	A hard to read note is likely to be in a dimly lit room or in a poorly written handwriting.
+
+0.9	Cars usually travel at very high speeds on highways or race tracks.
+
+0.8	Germany is not famous for a superhighway with no speed limit.
+
+0.8	He knew how to get started finding his balance with a credit card.
+
+0.8	A dog may have gone missing or run away before someone puts up posters of them.
+
+1	Sean was unable to build houses in his current state.
+
+0.8	Various things could go on top of wood, such as paint, varnish, wax, or other finishes.
+
+1	A sporting goods store would have lots of sports equipment.
+
+1	Taking analgesics is done to relieve pain.
+
+0.9	A net is put in a place where you want to catch or contain something, such as a fishing net in water or a sports net on a court.
+
+0.8	When driving, a person operates a vehicle to move from one place to another.
+
+0.8	Old Navy sells jeans for a decent price.
+
+0.9	Animals will digest the food to extract nutrients and energy for their bodies.
+
+0.8	Joe might have found spiders in his garage or shed where he keeps his tools.
+
+0.9	Seaweed is from the ocean.
+
+0.8	To learn to program from another person, you can attend coding bootcamps, take online courses, participate in coding workshops, or seek mentorship from experienced programmers.
+
+0.8	The landscaper was creating an elaborate bridge over the creek.
+
+0.8	One might be watching TV instead of doing something else because they find it entertaining, relaxing, or informative.
+
+0.9	She joined the alto section of a choir.
+
+0.8	The music had a calming effect on the man.
+
+0.8	James would likely put the tire chains in the trunk of his car or in the garage.
+
+0.8	You only live once (YOLO) is a phrase used to emphasize the importance of enjoying life and taking risks.
+
+0.8	Someone may flirt with many people at once due to a desire for attention, validation, or simply because they enjoy the thrill of flirting.
+
+0.9	Newspapers are printed with ink and distributed daily.
+
+0.7	Experiencing a surprising show repeatedly would likely be exciting and entertaining.
+
+0.8	Releasing energy that has built up can feel relieving, cathartic, or even euphoric.
+
+0.8	A kosher deli is typically found in a neighborhood with a significant Jewish population or in a city with a large Jewish community.
+
+0.8	Obstructing justice is sometimes an excuse used for police brutality which causes anger and frustration in people.
+
+0.9	Most people turn to search engines like Google to get information on their phones.
+
+0.8	Performing for the first time is likely to produce nervousness or excitement.
+
+0.8	The teen loved to read books while laying in bed.
+
+0.8	The depressed man likely felt overwhelmed or isolated despite the large crowds.
+
+1	John found his old water hose near his car.
+
+0.8	People are better at using tools and technology.
+
+0.9	Air conditioners can be turned on to cool down a home when it feels too hot.
+
+0.8	You could be tired or exhausted a few hours after you finish cashing in due to your cash.
+
+0.8	Her encouraging and positive coach saw potential and talent in her despite her disability.
+
+0.8	Blue read material outside of his comfort zone to gain new knowledge and perspectives.
+
+1	The brain is the thing that is agitated in your head when kissing.
+
+1	Operating a vehicle while inebriated can lead to accusations of driving under the influence (DUI) or driving while intoxicated (DWI).
+
+0.8	Many humans enjoy fishing and enjoy listening to music at the same time.
+
+0.9	If you have a home with a courtyard, you probably don't have to care for a lawn any longer.
+
+0.9	A briefcase is typically carried using your hand or shoulder.
+
+0	The question seems incomplete or unclear.
+
+0.9	A ruler would be placed on the tabletop of a table.
+
+0.8	Playing soccer and winning can lead to a sense of accomplishment, teamwork, physical fitness, and potentially winning trophies or awards.
+
+0.9	Humans usually find shelter in homes, buildings, or other structures.
+
+0.9	Reading a dry and long book may lead to becoming bored.
+
+0.8	In order to compete against someone, the terms need to be equal or similar.
+
+0.9	To keep something in their hand, a person should grip or hold onto the object with their fingers and palm.
+
+0.9	Getting in shape typically requires a combination of regular exercise, a balanced diet, and adequate rest.
+
+0.8	He left a mess on the table.
+
+0.8	Planned communities or neighborhoods with strict homeowners association regulations have uniform yard sizes and landscaping.
+
+0.9	They had been standing in queue for a long time.
+
+0.9	Ice melts when exposed to the sun due to the increase in temperature causing it to change from a solid to a liquid state.
+
+0.9	The man should have taken a respectful and solemn attitude at the funeral.
+
+0.9	You would go to an office to work, attend meetings, collaborate with colleagues, and perform job-related tasks.
+
+0.7	The opponent was skilled and experienced.
+
+0.7	Joe's cat might have jumped into a hot oven or stove.
+
+0.8	You can keep the letter opener on your desk or in a drawer where it is easily accessible.
+
+0.8	James and his partner planned on celebrating their 5th anniversary by going to bed early.
+
+0.8	You wanted your resume to end up in the hands of the hiring manager or the person responsible for reviewing job applications.
+
+0.9	Airplanes typically taxi to the gate after landing.
+
+0.9	Letters are written in English in America.
+
+0.8	You could find only a few office in a remote or rural area where there are not many businesses or commercial buildings.
+
+0.9	Pet birds likely live in a cage.
+
+0.8	A teacher is likely to keep her clavichord in her home or music studio.
+
+0.8	James might look for an old underground map from the 50s in historical archives, libraries, or online auction websites specializing in vintage items.
+
+1	As an AI, I do not have a boss and therefore do not receive anything from a boss at the end of the week.
+
+1	Failing to finish something means you failed at completing it.
+
+0.8	A high-quality heifer might be taken to a cattle show.
+
+0.9	An obstacle or barrier in the path can suddenly stop someone when he or she is running.
+
+0.9	A salt shaker is most often kept on the dining table or kitchen counter.
+
+0.9	You can get jewelry from stores, online retailers, or by borrowing from friends or family.
+
+0.8	A vestibular issue caused the student to lose his balance.
+
+0.8	Breaking down tasks into smaller, more manageable parts and setting specific deadlines for each part can help finish work on time despite being prone to postponing.
+
+0.9	Stabbing to death is a form of homicide.
+
+0.9	People are likely to become impatient in situations where they have to wait for a long time or when they are in a hurry.
+
+1	Brad tried to arise from bed but he could not. Instead, he just continued to do what?
+
+0.9	Monkeys can be found in the wild in tropical forests, jungles, and savannas.
+
+0.9	The poker dealer spread the flop of cards across the table.
+
+0.8	He found himself making friends with similar interests in comics.
+
+0.8	You can buy jeans at a shopping mall or department store.
+
+0.8	The Amazon river
+
+0.9	A control room is needed in situations where there is a potential for a wide spread disaster, such as in emergency response operations, nuclear power plants, chemical plants, and other critical infrastructure facilities.
+
+0.8	Joe and Mac were playing basketball for fun and exercise.
+
+1	You are at an airport security checkpoint.
+
+0.8	Seeing new presents at a birthday party could make the person feel excited, happy, or surprised.
+
+0.9	A single shower curtain is typically found being used in a bathroom.
+
+0.8	South America is the large land mass that is home to the most monkeys.
+
+0.7	The place might be a hotel or a rental property.
+
+0.9	Libraries are known to be a wealth of information.
+
+0.8	Muscle fatigue is an unavoidable physiological consequence of running.
+
+0.9	Dishes can be stored in a kitchen cabinet or cupboard.
+
+1	A person who is good at sports is considered an athlete.
+
+0.8	The back yard was a safe place for the children to play.
+
+0.9	Porcupine has quills all over it.
+
+0.8	Sally might work in a school, office, or any other place where she needs to organize papers and call out names.
+
+0.8	To change their lives, people need to set clear goals, take action, and be willing to make changes in their habits and mindset.
+
+0.8	Silk can be shown off on a dress or a scarf.
+
+0.8	Hundreds of thousands of homes can be found in a city or a large urban area.
+
+0.8	Flasks were used in laboratories or scientific experiments to distill elements.
+
+1	A dictionary can be found in a library along side other writings that can be borrowed.
+
+0.8	He wanted to run faster or reach his destination quicker.
+
+0.7	New York City is likely to not just have a kosher restaurant.
+
+0.8	Construction sites are where many loud machines are expected.
+
+1	When you wipe your feet on the door mat and walk through the door, you enter the house or building.
+
+0.8	Polygamy is the result of an individual trying to procreate with many individuals.
+
+0.8	Clam Chowder is a type of non-vegetarian soup that one is likely to find a potato in.
+
+0.8	The weasel was becoming a problem as it kept getting into the chicken eggs kept in the henhouse.
+
+0.8	Animals with malignant tumors may require treatment such as surgery, chemotherapy, or radiation therapy. In some cases, the tumors may be too advanced for treatment and the animals may unfortunately not survive.
+
+0.8	Cricket is the game they were playing.
+
+0.8	She signed up for computer classes to learn more about the computer.
+
+0.8	Most people who are family like to greet each other with a hug.
+
+0.8	Foxes are found in a variety of habitats including forests, grasslands, mountains, and deserts.
+
+0.9	A pillow case that is not in use can be stored in a closet or a drawer.
+
+0.9	The smelly man is pursuing personal hygiene or cleanliness.
+
+0.9	To alleviate boredom at home, people might watch TV, read a book, play video games, listen to music, or engage in a hobby.
+
+0.9	People are likely to feel happy, grateful, and surprised when an unexpected decent outcome occurs.
+
+0.7	Pushing more might lead Sally to face more challenges or risks.
+
+0.8	The sun could shine in.
+
+0.9	Finding a cat in the washing machine is the last place you'd want to find it.
+
+0.9	Clothes become torn or ripped when caught on a sharp object while washing.
+
+0.8	Forgetting her chewables at the picnic made her worried about preventing indigestion.
+
+0.8	Ending a marriage with a mean person can lead to feelings of relief, happiness, and freedom.
+
+0.8	The cat kept pestering its owner because it was feeding time.
+
+0.9	Setting up framing, truss and beam are some of the first steps in construction/building a structure.
+
+0.9	Vegetables are made from plants and need to be washed before eating.
+
+0.8	Going to bed with your spouse for sex leads to intimacy and physical connection.
+
+0.8	You can get a lizard to keep in your home from pet stores, breeders, or online reptile shops.
+
+0.8	James was going to England.
+
+0.9	A ladder or stairs could be used to get to some airplanes.
+
+0.8	Sage loved communicating with his peers by talking and sharing ideas.
+
+0.9	Airplanes are unlikely to get bugs on their windshield due to bugs' inability to reach them when they are moving.
+
+0.8	He really enjoyed the facilities of the gym.
+
+0.8	The Everglades is the nature area where he spotted a bald eagle.
+
+0.9	Students are required to carry books all day at school.
+
+0.8	Basements that can be accessed with an elevator are typically found in buildings such as hotels, office buildings, or residential complexes.
+
+0.8	John's recent turns could be described as unhappy or troubled due to his dissatisfaction with his marriage.
+
+0.9	Clouds float in the atmosphere, which is a mixture of gases primarily composed of nitrogen and oxygen.
+
+0.8	You can get a rosebush from a nursery or garden center.
+
+0.7	The business man went to a luxury watch store to buy an expensive wristwatch.
+
+0.8	Buying products in excess can lead to accumulation of unnecessary items, wastage of money, and potential clutter.
+
+0.9	Trash cans are commonly found on sidewalks in many towns and cities.
+
+0.8	Milwaukee is a Wisconsin city known for beer.
+
+0.8	A person might be watching a scene from a movie or a TV show where a character is involved in illegal activities such as robbery or money laundering.
+
+0.8	The stone was found in the stream bed.
+
+0.8	James might not like ideas that involve human error, bias, or subjectivity in the criminal justice system.
+
+0.9	The control room that controls a Pressurized Water Reactor (PWR) is typically located on-site at the nuclear power plant.
+
+1	Pretending to be a police officer is illegal and can result in criminal charges.
+
+0.9	The newest baseball stadium is Globe Life Field in Arlington, Texas, which opened in 2020.
+
+0.9	The company used recycled cardboard as their packaging material.
+
+0.8	A single bee can quickly turn into a swarm of bees.
+
+0.8	Buying products was the only way she could feel happiness.
+
+0.8	The player was likely a member of a marching band or a musical ensemble.
+
+0.8	If your date does not show up, it is advisable to try to contact them to check if everything is okay. If there is no response, waiting for a reasonable amount of time before considering other plans or rescheduling is recommended.
+
+0.8	The guys had a regular poker game on Saturday night, rather than going to the movies.
+
+0.9	Turning the fan on can make the room more comfortable.
+
+0.8	He was likely at the beach or by a pool.
+
+0.8	Stark might have been engaging in a harmless activity or playing a game.
+
+0.9	James didn't want his son to disturb or harm the frogs mating in the area.
+
+0.8	The silence of everything allowed him to hear every motion in the woods during the winter hunt.
+
+0.8	Not losing weight could be due to factors such as not being in a calorie deficit, hormonal imbalances, medical conditions, or lack of exercise.
+
+0.8	John might live in a country estate or a manor house.
+
+0.9	People often read magazines while waiting for this appointment.
+
+0.9	You can buy a magazine, paper, or gum at a convenience store, newsstand, or grocery store.
+
+0.8	The book might be about the author's own life, thoughts, or experiences, often reflecting on the process of writing the book itself.
+
+0.8	Traveling from new place to new place is likely to be exciting and adventurous.
+
+0.9	An upright piano can be purchased from a music store, a piano showroom, or online retailers specializing in musical instruments.
+
+0.8	Approaching situations with an open mind, gathering more information, and challenging their own biases can help people achieve better outcomes.
+
+0.8	Stretching is recommended for faster recovery after exercise.
+
+0.9	Two slices of bread would be put in the toaster if someone was making breakfast.
+
+0.8	Eating dinner made of cheese may cause symptoms such as bloating, gas, diarrhea, and stomach cramps for someone with lactose intolerance.
+
+0.8	Computers could first manage workflow by automating repetitive tasks and increasing efficiency.
+
+0.8	He enjoyed visiting the living room.
+
+0.9	You can get a shower curtain from a department store, home goods store, or online retailer.
+
+0.9	Your body eliminates waste through bowel movements.
+
+1	A room with no music and no other noise would be quiet.
+
+0.9	A successful dog grooming session is likely to make an owner feel satisfied, happy, and proud of their well-groomed pet.
+
+0.9	A lake is likely to be glacial if it is located in a region where glaciers are present, such as near the poles or in high mountain ranges.
+
+1	You would go to a clothing store or a department store.
+
+0.9	People usually feel a range of emotions when falling in love, such as happiness, excitement, passion, and a sense of connection.
+
+0.9	To stay healthy, a person can maintain a balanced diet, exercise regularly, get enough sleep, stay hydrated, manage stress, and avoid harmful substances like tobacco and excessive alcohol.
+
+0.9	A revolving door serves as a security measure at a building entrance.
+
+0.9	Christians believe you will go to heaven if you accept Jesus Christ as your savior and follow his teachings.
+
+0.8	Uncooked crab meat should be stored in the refrigerator to keep it fresh.
+
+0.9	A stove heats up the place that it's in.
+
+0.9	When you first meet a child, you can ask them their name or how they are doing.
+
+0.8	Urban areas with a high population density and a vibrant nightlife scene are likely to have many nightclubs.
+
+0.8	The hikers rested after stopping to have a drink.
+
+0.8	Christine was likely a woman
+
+0.8	He removed a shelf on the bookcase to make room for the especially tall hardcovers.
+
+0.8	Skills and experience in cooking or food preparation are needed for anyone to be hired in the kitchen.
+
+0.9	Professors primarily teach and conduct research in their respective fields of expertise.
+
+0.9	Loss of someone you love can cause grief in your heart.
+
+0.8	A round brush, if not used for hair, is an example of a painting tool.
+
+0.8	Her goal is to relax and unwind
+
+0.8	A storey containing a panoramic view would be in a building or a skyscraper.
+
+0.9	A battle that involves words could take place in a debate or argument.
+
+0.8	A strip mall is an uncommon location for a supermarket.
+
+0.8	He put the food can in his backpack.
+
+0.8	Auto repair shops or garages are where all the power tools like the drill used for fixing cars are made for a very loud workplace.
+
+0.9	You can find a restaurant's phone number on their website, social media pages, online directories, or by calling the restaurant directly.
+
+0.8	Contaminated hamburgers with harmful bacteria such as E. coli or Salmonella can cause severe food poisoning leading to death.
+
+0.8	Cleaning house for a long time may lead to fatigue, sore muscles, and potential injuries from overexertion.
+
+0.8	A mouse might also be seen in a field or outdoors.
+
+0.8	James and his friend wanted to relax and take it easy.
+
+0.8	To get a grape, you would go to a grocery store or a market.
+
+0.9	Blowfish require saltwater to live.
+
+0.8	A dining area is likely to be small in urban areas with limited space or in small apartments/homes.
+
+0.8	The amateur end user began to panic or feel frustrated.
+
+0.8	The newlyweds began copulating their marriage, they wanted many children.
+
+0.8	Slurred speech is a common symptom of being drunk and can make it difficult for others to understand you.
+
+0.9	The teacher was hoping her students would learn multiplication next.
+
+0.9	Enjoying something is when you do something and have fun.
+
+0.9	Factors that would encourage someone to continue playing tennis include enjoyment of the game, improvement in skills, social interaction with other players, physical fitness benefits, and competition.
+
+0.8	A slot effectively made a mailbox of the door.
+
+0	The dogs were protecting their own when they decided to attack the bad man.
+
+0.8	The old style pop ups let you see the story when you clicked on them.
+
+0.8	Young children find it hard to read a long book due to their shorter attention span, which makes it challenging for them to focus for extended periods of time.
+
+1	Admitting mistakes involves taking responsibility for actions and acknowledging errors.
+
+0.9	Most companies do not want to have excess supply relative to demand.
+
+0.9	A town between two mountains is located in a valley.
+
+0.8	Knights are always portrayed as heroes in medieval literature and folklore, upholding chivalry and protecting the innocent.
+
+0.9	Billy would go back to his own toilet whenever he needed to poop.
+
+0.9	The hopeful result of going to see a play is to be entertained, inspired, or moved emotionally.
+
+0.9	Candles are good for eliminating odors.
+
+0.8	A fire extinguisher was kept in the laboratory because they dealt with combustible mixtures in their experiments.
+
+0.8	After the meal, there would be a messy plate.
+
+0.9	To fly in an airplane, you need to purchase a ticket, go through security checks, board the plane, fasten your seatbelt, and follow the instructions of the flight crew.
+
+0.9	If a person isn't able to pay their bills, they should contact their creditors to discuss their situation and explore options such as payment plans or financial assistance programs.
+
+0.9	Vinyl would be an odd thing to replace in the context of records or flooring.
+
+0.8	Falling asleep while attending school is likely due to boredom or fatigue.
+
+0.9	A person going for a jog will likely be wearing athletic clothing such as shorts, leggings, t-shirts, and running shoes.
+
+0.8	In a hotel room, there is a telephone book in almost every room.
+
+0.9	You can buy storage containers or boxes to put your spare unused things.
+
+1	The car was heading to the opera house.
+
+0.8	James might work in a building with an auditorium that has a small mezzanine to create more seating space.
+
+0.8	The likely venue for a reception held with hotel guests walking by is the hotel lobby or a designated event space within the hotel.
+
+0.8	The bank teller tried to convince the criminal that there were other ways in life and this was not the right path.
+
+0.8	It is a parent's job to discipline their kids.
+
+0.9	Soap can be obtained from a grocery store, pharmacy, or online retailer.
+
+0.9	A planet usually moves around the sun in an elliptical orbit.
+
+0.9	John needed to bring his violin to work because he was the first violin.
+
+0.9	Many varieties of plants including a rosebush can be found in a garden or a botanical garden.
+
+0.8	A split keyboard is made up of one or more pipe divisions.
+
+0.8	People often want to have a lot of coffee in cafes or coffee shops.
+
+0.9	You are preparing to go on a river or lake trip where you will float on a raft, tube, or other floating device.
+
+0.9	Seaweed is usually found alive in the ocean, attached to rocks or other substrates.
+
+0.9	Having a hangover is a common experience after awaking from a night of heavy drinking.
+
+0.8	A bath towel can be borrowed from hotels, gyms, swimming pools, or some public facilities.
+
+0.9	Literature is usually kept on bookshelves or in libraries.
+
+0.9	For an animal and its offspring to continue living, the animal must reproduce successfully and provide care for its offspring.
+
+0.9	When you stroke a dog's fur, you have touched or petted the dog.
+
+0.8	The church was hoping to accomplish helping those in need, spreading goodwill, and fulfilling their religious or moral obligations.
+
+0.8	Drinking alcohol can lead to various health issues such as liver damage, addiction, impaired judgment, and increased risk of accidents.
+
+0.8	Air conditioning is likely to be installed in the living room or entertainment area where the man watches the game on Saturday.
+
+1	Committing murder means unlawfully killing another person.
+
+0.9	When people don't understand something, they may ask questions, seek clarification, do research, or seek help from others.
+
+0.9	While knitting, you can listen to music or radio programs using a radio.
+
+0.8	The business with stained carpets from sauces and ketchup is likely a fast food restaurant.
+
+1	Communication can be done through various means such as phone calls, text messages, emails, video calls, social media platforms, or messaging apps.
+
+0.9	Cooked steak can be stored in the refrigerator for 3-4 days in an airtight container or wrapped tightly in foil or plastic wrap.
+
+0.8	His name should be put on a plaque or trophy to recognize his accomplishment.
+
+1	Cavities are typically found in teeth.
+
+0.9	The wire had become bent.
+
+0.8	Bob was in a room or a box.
+
+0.5	It is unclear what she wanted to do with the man as the question is vague and lacks context.
+
+0.8	A person could live in a remote or isolated area such as a cabin in the woods, a desert, or a private island.
+
+0.9	Louisiana is part of the Southern United States.
+
+0.8	Cats do everything they can to avoid water.
+
+0.9	Children require a balanced diet, regular exercise, adequate sleep, and a safe and nurturing environment to grow up healthy.
+
+0.9	You should not be in the water during a shark filled tornado.
+
+0.9	Sexually transmitted infections (STIs) can be transferred through copulating with the wrong partner.
+
+0.8	To behave with proper aplomb, you should avoid manners such as being rude, disrespectful, or impolite.
+
+0.9	A niece limb needs to be added to the family tree if someone found out their brother was having a daughter.
+
+0.8	People may stop caring about their problems due to feeling overwhelmed, lack of support, or feeling hopeless.
+
+0.8	Ceiling fan blades might be the hardest to dust.
+
+0.9	To stay warm when you are cold, you can wear warm clothing, drink hot beverages, or use a blanket.
+
+0.8	Flowers are often considered the pretty part of plants.
+
+1	The baby was cranky because it needed to eat breakfast but refused to do so.
+
+0.7	The car he considered purchasing was fuel-efficient.
+
+0.8	A band may be performing when there are no people nearby for various reasons such as practicing, recording music, or filming a music video.
+
+1	An automobile can get off a freeway by taking an exit ramp or an off-ramp.
+
+0.8	He is trying to build muscle on his body.
+
+1	The large area location of the empire state building is in New York City, USA
+
+0.8	The terrace with Kanji written on it was made in Japan.
+
+0.8	Billy might move to another city or town within the same country, or he could move to a different country altogether.
+
+0.9	Being open-minded, willing to listen and learn, and challenging your own beliefs and biases are important when committed to eliminating preconceived notions.
+
+0.8	James would always fall off the surfboard.
+
+0.9	A statute is a formal written enactment of a legislative authority that governs a state, city, or country. It is typically found in legal documents, such as laws, regulations, or codes.
+
+0.9	You typically keep your pizza slice on a plate or napkin before eating it.
+
+0.8	Wishing wells originally had a pail to be lowered for their intended use.
+
+0.8	John usually painted houses with a paintbrush.
+
+0.8	A driving car could potentially hit or injure a pedestrian if the driver is not paying attention or if there is a mistake in the driving process.
+
+1	Society is made up of people.
+
+0.9	The artist began to paint when inspiration struck him.
+
+0.8	Dental issues such as missing teeth, cavities, or jaw problems can be a possible reason for difficulty in chewing food.
+
+0.8	After death, the body undergoes a process called decomposition where it breaks down into simpler organic matter.
+
+0.8	You can get maps that you own from a variety of sources such as online map stores, bookstores, or by creating them yourself.
+
+0.5	Desires and needs vary from person to person, making it difficult to determine what every person wants.
+
+0.8	The campaign was intended to create a positive impact on the problem.
+
+0.9	A philosopher is waiting to gain wisdom through his studies.
+
+0.9	Office or school supplies store is where pens, computers, text books, and paper clips can all be found.
+
+0.9	You would normally take a cup from a cupboard or shelf in the kitchen or dining area.
+
+0.8	Bald eagles are likely to be found near bodies of water, such as lakes, rivers, or coastlines.
+
+0.9	A plate should be put in the sink or dishwasher immediately after eating from it.
+
+0.8	The juror was conveying he was hearing testimony by nodding or making occasional eye contact.
+
+0.9	Louisiana is known for having many swamps.
+
+0.9	A wild bird usually lives in its natural habitat, which can vary depending on the species of bird.
+
+1	He stayed in a hotel after arriving from the farm.
+
+0.7	There is no scientific evidence to suggest that young people have a specific reason for swallowing semen. It may vary from individual to individual.
+
+0.9	A personal ficus could live indoors as a houseplant.
+
+0.9	Maintaining personal hygiene and cleanliness through bathing can help prevent infections and maintain overall health.
+
+1	The man was laying on the soft moss.
+
+0.8	A well used toy car is likely to be found in a child's play area or in a toy box.
+
+0.8	Orthostatic hypotension can cause a sudden drop in blood pressure when standing up.
+
+0.8	Partying all night can lead to feeling tired even when just beginning work.
+
+0.9	Michigan is commonly referred to as the 'glove-shaped state' due to its shape resembling a mitten or glove.
+
+1	The earth is one planet in the solar system.
+
+0.9	Buying presents for others can create feelings of joy, happiness, and generosity.
+
+0.9	When networking, people interact with others to exchange information, contacts, and develop professional or social relationships.
+
+0.8	An alien might use a vacuum in space to create a vacuum environment for various purposes.
+
+1	A violin is heard along side many string and wind instruments in an orchestra.
+
+0.8	Joe might have been hit by a ball while playing a game with John.
+
+1	Stabbing a person to death will result in the person dying.
+
+0.9	A wet person is likely to dry themselves off or change into dry clothes.
+
+0.8	To make a maze on his farm in the fall, a farmer needs to plan the design, prepare the land, plant the crops in a desired pattern, and maintain the maze throughout the fall season.
+
+0.8	If a captain dies at sea, the next highest-ranking officer on board would typically assume command and take charge of the situation.
+
+1	Someone who has finished their undergraduate has completed their bachelor's degree.
+
+0.9	Leftover cake can be put in the refrigerator to keep it fresh.
+
+0.8	A vacuum cleaner probably has a lot of dust in the back.
+
+0.9	An apple tree can produce apples.
+
+0.9	The orchestra members had to wear tuxedos while playing the keyboard instrument.
+
+0.8	The neighbor of the flower may have adapted by growing wider or developing other strategies to access sunlight.
+
+0.8	Bob the lizard probably lives in a tropical rainforest or a wetland area.
+
+0.9	A person may like to have a large house for reasons such as having more space for their family, entertaining guests, displaying wealth or status, or simply enjoying the luxury and comfort of a spacious home.
+
+0.8	The man was likely catching draining motor oil in the garage or driveway at home.
+
+0.8	One can obtain a bass fiddle at music stores, online retailers, or directly from instrument makers.
+
+0.9	People are likely to want to socialize, hang out, have fun, and share experiences with their friends.
+
+0.7	The butt was bare, and Sam couldn't stop staring at it. It was very round.
+
+0.8	A person with an allergy might be experiencing symptoms such as sneezing, itching, or difficulty breathing if they awake suddenly.
+
+0.8	A person with digestion issues may feel discomfort, bloating, gas, or indigestion after eating a meat-filled breakfast.
+
+0.8	If you aren't well rested and it's a rainy day, you might choose to stay indoors, relax, read a book, watch a movie, or take a nap.
+
+0.9	A bar or a pub is a place that is far away from your house where you could consume beer.
+
+0.8	To see something beautiful when suffering from boredom, you can try watching a sunset, visiting a botanical garden, or exploring art galleries.
+
+0.8	The lion likely took on a more aggressive or dominant attitude towards the timid competitor.
+
+0.8	A fencing thrust with a sharp sword towards a person would result in a stabbing motion or potentially causing injury.
+
+0.9	Someone from Iran is likely to use Persian (Farsi) as their language type.
+
+0.8	Sam was being deceptive by not providing important details.
+
+0.9	Spraining an ankle while playing baseball can cause pain, swelling, and difficulty walking.
+
+0.9	The goal of a person going to bed is likely to rest and sleep.
+
+0.8	The general geography of the region where the cave was found was likely mountainous.
+
+0.8	Becoming extremely focused and productive is a very unlikely side effect of becoming inebriated.
+
+0.8	Wearing uncomfortable shoes for a long time may lead to foot pain or blisters.
+
+0.8	The long cottage that people thought was haunted was far into the woods.
+
+0.7	The people were adroit at remembering the event.
+
+0.9	California has thousands of miles of shore.
+
+0.9	Watering the fresh herbs, flowers, and vegetables is essential to prevent them from shriveling up.
+
+0.9	When someone is physically competing, their body undergoes various physiological changes such as increased heart rate, increased blood flow to muscles, release of adrenaline, and heightened focus and alertness.
+
+1	A day consists of 24 hours.
+
+1	Procrastination is the term used when a person tends to leave things to the last minute.
+
+0.9	A picnic involves stopping and having food all around you.
+
+1	The person in physical distress should go to the nearest hospital or call emergency services for immediate medical attention.
+
+0.8	The man gave assistance by offering money or other forms of help to the pan handler.
+
+0.9	If someone laughs after surprising them they have a good sense of humor
+
+0.3	The specific location of the freeway with no traffic and few buildings cannot be determined without more information.
+
+0.8	He would be at his destination soon.
+
+0.7	Conditions in homeless shelters can vary widely depending on the location and organization running the shelter. Some may provide basic necessities like a bed, meals, and hygiene facilities, while others offer additional services such as counseling, job training, and healthcare. However, overcrowding, lack of privacy, and safety concerns are common issues in many shelters.
+
+0.8	A weasel has a thin body and short legs to easier burrow after prey in a tunnel or burrow.
+
+1	Batman settled for cans because there were no bottles available.
+
+0.8	Nylon leggings are typically kept in a drawer or closet with other clothing items.
+
+0.9	A side table is normally found near a side chair.
+
+1	Studying a new subject involves a lot of thinking to gain understanding.
+
+0.8	The old man would lie down on the couch and take a short nap.
+
+0.8	The murderer went to church after feeling remorse.
+
+0.9	Racers must take their positions at the starting line before they start to run.
+
+0.8	I enjoyed the show
+
+0.8	Using a computer to talk to their granddaughter might cause feelings of connection, communication, and joy for the person.
+
+0.9	Jenny was forced to lie there exposed to the sun.
+
+0.9	Jane spends a lot of time at the Capitol building.
+
+0.8	Making friends was no personal problem for him.
+
+0.8	People play chess on the weekends as a way to relax, challenge themselves mentally, and socialize with others.
+
+0.8	You can go to furniture stores or home decor stores to find a new ottoman.
+
+0.8	If airplane engines cut off and are unable to be restarted in flight, the aircraft will lose power and altitude, leading to a potential emergency landing or crash.
+
+0.8	A creek could be located in the opposite direction of a city, which is called the countryside or rural area.
+
+0.9	Professors work with students, colleagues, researchers, and academic institutions.
+
+0.9	A person suffering from hunger early in the day typically eats breakfast to alleviate their hunger.
+
+0.9	After finishing creating art, someone might share it with others, display it in an exhibition, sell it, or keep it for themselves.
+
+1	Shooting someone with a gun can kill them.
+
+0.8	They might have been in a movie theater or a similar venue where it would be dangerous to move around in the dark.
+
+0.9	Bowling alley is where you throw a ball at pins.
+
+0.9	When you illustrate a point, you want someone to understand or grasp the idea you are trying to convey.
+
+0.9	The United States has the most fast food restaurants.
+
+0.8	The meaning of "ficus" can be found in a dictionary or by searching online.
+
+0.9	Metal is taken from ore which is pulled from the ground.
+
+0.9	The runner was beginning to push harder.
+
+0.8	The pioneer was most likely looking for containers or boxes to store goods or supplies.
+
+0.8	You can put the penny in a piggy bank or a savings jar to save for later.
+
+0.8	Animals may exhibit various behaviors when an enemy is approaching, such as fleeing, hiding, or displaying aggressive behavior.
+
+0.8	A newspaper likely shows up in the driveway every morning if a house has a subscription.
+
+0.9	Someone can get a new saw at hardware stores, home improvement stores, online retailers, or specialty tool shops.
+
+0.8	The tiger was stuck in the Bronx Zoo in New York City.
+
+0.9	A toy soldier being played with can be found in a child's playroom or in a child's hands.
+
+0.7	Miss Grady put the stick on top of the blackboard to prevent Bob from getting it.
+
+0.9	Small dogs pant when it's hot outside to regulate their body temperature as they do not sweat like humans.
+
+0.8	Mark treated Sam like a friend.
+
+0.9	Someone can be let into a brownstone by being buzzed in through an intercom system or by using a key to unlock the door.
+
+0.9	Furniture pads or felt pads can be placed under the furniture to protect the floor.
+
+0.8	The sky is often considered most beautiful in areas with minimal light pollution, such as remote rural locations or high-altitude areas.
+
+0.9	Marmots are typically found in mountainous regions.
+
+1	Water could be used to fill a cup and then drink from it.
+
+0	The neighborhood had a great sense of community, there was always a crowd at the landing
+
+0.7	The person in the cat's actions are unclear due to a typographical error or confusion in the sentence.
+
+0.8	A whim
+
+0.2	The location of the smelly carpet installation is not specified.
+
+0.9	Oranges are a type of fruit that is easily broken into sections.
+
+0.9	A drug is typically kept in a medicine cabinet or a designated storage area in a home bathroom.
+
+0.8	Lemurs are wild animals native to Madagascar and are not commonly found in markets.
+
+1	World War II took place from 1939 to 1945.
+
+1	Players, tennis balls, tennis rackets, spectators, coaches, umpires, and linesmen could go to a tennis court.
+
+0.9	A kind person might show empathy, help others in need, listen actively, and treat others with respect and compassion.
+
+0.8	A corpse would typically be covered by a blanket in a morgue or at a crime scene.
+
+0.9	You are at the airport or at the airline check-in counter when you're about to use your plane ticket.
+
+0.9	A person begins reproducing through sexual intercourse, where a sperm from a male fertilizes an egg from a female.
+
+0.8	Tying a string tightly around an object can prevent it from moving.
+
+0.9	Committing perjury while under oath means lying or giving false information.
+
+1	Mammoth Cave is located in Kentucky.
+
+0.9	A public monument is likely to be erected in a prominent location within a city, such as a park, square, or historical site.
+
+0.8	Contemplating alone for a long time can lead to deep introspection, clarity on thoughts and emotions, and new insights or solutions.
+
+0.9	A person typically takes a shower or bath to clean themselves when they feel dirty.
+
+0.8	Mexico is a Spanish speaking North American country where you can get a great cup of coffee.
+
+0.9	The main purpose of farmers is to cultivate crops and raise livestock for food production.
+
+0.9	Many people needed to move to urban areas or cities.
+
+0.8	Parents may tell a child to do chores, homework, play outside, spend time with family, or relax on the weekend.
+
+0.8	She had more nervousness as the time came to get on stage.
+
+0.8	Colorful anemone look somewhat like sea anemone.
+
+0.9	A bird is likely to make its home in a nest, typically in trees or bushes.
+
+1	To get clean clothes, you need to wash them.
+
+1	The string began at the kite
+
+0.8	The employees were led to their seats by the hostess.
+
+0.8	Going public about a common problem can gain sympathy and support from the public for a celebrity.
+
+0.8	A mountie might be in Toronto if he got off at a subway stop.
+
+0.9	Cleaning supplies such as a mop, broom, vacuum cleaner, cleaning solutions, and sponges are needed for cleaning.
+
+0.7	The Indianapolis 500 is the biggest motorsport spectacle in the world.
+
+1	The thoroughfare was passing through fields and woods.
+
+0.9	The process of going somewhere typically involves moving from one location to another, either by walking, driving, flying, or using other modes of transportation.
+
+0.9	A person will typically perform tasks related to their job responsibilities, collaborate with colleagues, attend meetings, communicate with clients or customers, and contribute to the overall goals of the organization.
+
+1	Survival of the individual attempting suicide may result in an unsuccessful suicide attempt.
+
+0.8	Children can play with animals at petting zoos, farms, or animal sanctuaries.
+
+0.8	She would cook for him
+
+0.8	The thief still took his chances and began to work on the ignition.
+
+0.7	Bill could look for a responsible stranger with kids at places like schools, parks, or community centers.
+
+0.8	Marathoners who push themselves too hard may be prone to dehydration, muscle cramps, or even heat stroke.
+
+0.9	Women are now acceptable to wear a variety of clothing including pants, skirts, and suits.
+
+0.9	You would be going fishing to catch fish to eat and satisfy your hunger.
+
+0.9	Donald likely spends a lot of time in Washington, D.C.
+
+0.8	You can use a fishing net or a specialized jellyfish net to catch a jellyfish.
+
+0.9	People typically strum or pick the strings of the guitar to produce music.
+
+0.8	To serve food at your party, you will need plates, utensils, napkins, serving dishes, and possibly cups and glasses depending on the type of food and drinks you are serving.
+
+0.8	Eating vegetables is healthy.
+
+0.8	A newspaper can be used to announce an engagement.
+
+1	As an AI, I do not have personal experiences or relationships, so I do not have a best friend from Kindergarten.
+
+0.9	Crabs live in a variety of environments including oceans, freshwater, and land.
+
+0.9	Having fun is the same as enjoying himself for Danny.
+
+0.8	The dad put his gun in the safe to protect his house.
+
+1	To get out of there the person had to keep on walking.
+
+0.9	You can find a stapler in many places such as office supply stores, stationery stores, and online retailers.
+
+1	Thanksgiving came most recently before Christmas time.
+
+0.8	The president would issue such a decree through an executive order or by working with the legislative branch to pass a law.
+
+0.9	Everyone who doesn't want to fight anymore should seek peaceful resolutions, communicate effectively, and work towards understanding and compromise.
+
+0.9	People read non-fiction to gain knowledge, learn about real events, people, or topics, and to expand their understanding of the world.
+
+0.8	A basketball with a hole in it but not losing its general shape would not be able to hold air or be used for playing basketball effectively.
+
+0.9	Nature creates more beautiful structures than those that are man-made
+
+0.7	Feelings towards monsters are subjective and vary from person to person.
+
+0.8	People who are visually impaired or sensitive to light, or those who want to make a fashion statement, might wear dark glasses indoors.
+
+0.9	People live in various places such as houses, apartments, villages, towns, and cities.
+
+1	Listening is what someone is usually doing if someone else is talking to him or her.
+
+0.8	Joe and Jill might limit the time their children spend watching TV or playing video games.
+
+0.8	Clutter can be found on every shelf in her house due to her love for spending money at the thrift store on knickknacks.
+
+1	The primary purpose of cars is to provide transportation for people and goods.
+
+0.9	The man was hoping to improve his physical fitness and overall health by learning jogging.
+
+0.8	The goal of listening to the lecture intensely is likely to understand and retain the information presented in the lecture.
+
+0.8	The ideal location for a post office is typically in a central area with easy access for the community it serves.
+
+0.8	A toilet that only friends can use is typically found in a private residence or a place where the owner restricts access to only friends.
+
+0.9	A backpack or a book sleeve can be used to store a book while traveling.
+
+0.9	Individual potatoes are likely put in the produce section or in a bin with other individual potatoes at a grocery store.
+
+0.8	The homeowner had to pay for the gas later.
+
+0.9	Humans are often found earning money at their workplace or job.
+
+0.9	I was not a slave.
+
+0.8	Putting a rug or a mat under the table can help catch crumbs.
+
+0.8	You could go to a city or a large urban area with a high concentration of restaurants.
+
+0.8	Regular exercise does wonders when getting in shape.
+
+0.8	She only got the puppy because she may have only been able to afford one pet or her living situation may only allow for one pet.
+
+1	A hot and arid place is typically a desert.
+
+0.9	A person might be known as a liar if they consistently deceive others by not telling the truth or by fabricating information.
+
+0.8	Raw or undercooked meat, unpasteurized dairy products, raw eggs, and contaminated fruits and vegetables can make someone sick.
+
+0.9	You can get jeans and other wearable items from clothing stores, department stores, online retailers, or specialty boutiques.
+
+0.9	A flour mill is used to grind wheat for bread.
+
+0.8	People from Avalon are said to live in a mystical land or island.
+
+0.8	Alice plans on sleeping in on Saturday.
+
+0.8	A very large table could be a dining table, conference table, or work table designed to accommodate a large number of people or items.
+
+0.9	A police officer typically patrols a specific jurisdiction or area assigned to them, such as a neighborhood, city, or district.
+
+0.9	To get pamphlets if you want to own them, you can go to a local print shop or a printing service.
+
+0.9	Parenthood is the term used when two people in love have children.
+
+0.9	Audiences clap to show appreciation or approval for a performance or presentation.
+
+0.8	An unsmooth pit could be caused by a fruit pit that is not completely smooth or has irregularities in its surface.
+
+1	A pen is filled with ink to write.
+
+0.8	They all had passion for the local theater.
+
+0.8	A good place to set a cup of coffee while relaxing could be on a coffee table or a side table.
+
+1	Fish can be found in a market if not in a stream.
+
+0.8	You can buy a replacement ax handle at hardware stores, online retailers, or specialty tool shops.
+
+0.8	A kindergarten teacher typically reads a story or sings a lullaby before nap time.
+
+1	A meteor travels through galaxies which are a part of the universe.
+
+0.9	The person was happy.
+
+0.9	A self-assured person often displays confidence in their abilities and decisions.
+
+0.8	You should store your bucket in a dry and secure location, such as a shed or garage.
+
+0.9	Adults use glue sticks in various settings such as offices, schools, and craft projects.
+
+0.9	Anemones typically live in marine environments, specifically in oceans and seas.
+
+0.8	Noble citizens of the Roman empire believed those born with lower status were inferior or lower class.
+
+0.9	A person working at a reception desk is located at the front entrance of a building or establishment.
+
+0.8	Leo's 2000 dollar debt seemed small compared to John's 50 million dollar debt.
+
+1	A country or organization typically has a leader.
+
+0.9	The child could help set the table, clear the table, or assist in serving food in the dining room.
+
+1	A helium-filled balloon will make a child happy.
+
+0.9	The person with mental illness has likely received treatment to help manage their symptoms and improve their overall well-being.
+
+0.9	A dog's house can typically be found in the backyard of a house or in a designated area for pets.
+
+0.8	Eating a hamburger can cause a feeling of fullness or bloating immediately after consuming it.
+
+0.9	Playing games for children helps them develop skills such as problem-solving, critical thinking, creativity, and social interaction.
+
+1	The opposite of a little of something is a lot of something.
+
+1	Sailors drive sailboats.
+
+0.8	To open a steakhouse, you should first get a business plan and secure funding.
+
+0.9	The woodworker would need to sand the wood to make it smooth to the touch.
+
+0.8	You would run into a niece you only see every once in a while at a family gathering or event.
+
+0.8	One is likely to find a fan for their stove in a kitchen appliance store or online retailer specializing in kitchen appliances.
+
+0.9	Riding a bike involves pedaling the pedals which are connected to the chain, causing the wheels to turn and the bike to move forward.
+
+0.8	If someone who is bad at playing poker participates in a game, they may end up losing money or making poor decisions due to their lack of skill or experience.
+
+0.9	Animals live in various habitats such as forests, oceans, deserts, grasslands, and even urban areas.
+
+0.9	The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an edge.
+
+0.8	A constitution is part of a republic like the USA.
+
+0.8	He had a belief that he would get away with it
+
+0.9	Making eye contact with the interviewer is advised during a job interview.
+
+0.8	The extremely large cargo plane could only land at a military base or airport with a long enough runway.
+
+0.9	You could have fun by yourself with activities such as reading a book, watching a movie, going for a walk, listening to music, painting, or practicing a hobby.
+
+0.8	A handy place to store a steel pen in your office is in a pen holder on your desk.
+
+1	A picture would be displayed on a horizontal surface such as a table or a desk.
+
+1	A doormat is likely to be in front of a door.
+
+0.8	The man's best memories were late night with his brothers at the fraternity house.
+
+0.8	Urban areas or cities are likely to have a variety of flats to choose from due to higher population density and demand for housing.
+
+0.9	Dogs are often known as man's best friend because of their loyalty, companionship, and ability to form strong emotional bonds with humans.
+
+0.8	Mandy might imagine going to various places such as Paris, London, New York, Tokyo, etc.
+
+0.8	Animals are likely trying to fulfill their basic needs such as finding food, water, shelter, or a mate.
+
+0.8	Ferrets are popular in New Zealand.
+
+0.8	A crane uses many a steel cable when working a construction site.
+
+0.9	To see new films, you must go to a movie theater or stream them online.
+
+0.9	You would walk through a central passage to catch an elevator in a building or a structure with multiple floors
+
+0.9	The buildings were designed for commercial or office use.
+
+0.8	When applying for a job, someone typically feels a mix of excitement, nervousness, hope, and anxiety.
+
+0.8	An expressway is referred to when a main artery is used to expedite travel.
+
+0.8	Monkeys can be found in the rainforests of West Africa, including countries like Nigeria, Cameroon, and Gabon.
+
+0.9	Learning is likely to result in acquiring new knowledge or skills.
+
+0.8	The man in the blue suit was very productive.
+
+0.9	Spitting a lot without noticing may indicate excess saliva production.
+
+0.8	Sheep are known for being followers.
+
+0.8	Zane suffers from social anxiety.
+
+1	John and James bought two tickets to the Falcons vs the Jets game.
+
+0	This question does not make sense and does not have a clear answer.
+
+0.8	When people think too quickly, they may make impulsive decisions or overlook important details.
+
+0.9	Traveling clothes are often kept in a suitcase or a travel bag.
+
+0.8	A monkey is likely to enjoy being in a jungle or a forest where it can climb trees and find food.
+
+0.9	Running after a ball for a long time is likely to make you feel tired and exhausted.
+
+0.9	John could have always made a different choice.
+
+0.8	The policemen rushed towards the direction of the cry to investigate and provide assistance.
+
+0.8	If a person with mental illness stops treatment, their symptoms may worsen and their condition may deteriorate.
+
+0.8	Paul can get carrots from a grocery store or a farmer's market.
+
+0.8	The chef likely practiced cooking techniques, experimented with different ingredients, sought feedback from others, and continued to learn and improve.
+
+0.9	A jumping rope can be used for exercise and fitness purposes, such as cardio workouts and improving coordination.
+
+0.8	A good place to store pamphlets in your home or office is in a filing cabinet or a designated drawer.
+
+0.8	Buying products that someone else does not want you to buy could lead to conflicts or disputes between you and that person.
+
+1	A person who doesn't have immortality is called mortal.
+
+0.9	Flowers make a good center focal point on a table.
+
+1	Metal is used to make various things such as tools, machinery, vehicles, buildings, and more.
+
+0.9	A typewriter uses a ribbon to put words on paper.
+
+0.8	If someone's spirits cannot elevate, they may experience feelings of stagnation, lack of motivation, and overall dissatisfaction with life.
+
+0	I'm sorry, but the question is unclear and I cannot provide an answer.
+
+0.8	Writers with a great bestseller can amass a large fortune.
+
+0.8	Honey can be found at a local bee farm or apiary.
+
+0.8	Repetitively talking to the same person about the same thing can lead to them getting bored.
+
+0.8	Private schools are likely to have a better school cafeteria compared to public schools.
+
+0.9	Mammoths lived during the Pleistocene epoch, which lasted from about 2.6 million to 11,700 years ago.
+
+0.8	Your body can be a part of a funeral or burial service.
+
+0.9	Every conversation took great effort.
+
+0.8	The Mount Washington Auto Road is the toll road that meandered from Maine to New Hampshire.
+
+1	Parents are the caretakers of a child.
+
+0.8	The janitor never had much to clean after services, but there was still always a paper or two to pick up in the pews or seats.
+
+0.9	Printing on a printer can get expensive because it consumes ink or toner.
+
+1	James needed to clean out dirt.
+
+0.8	To seek medical attention or take appropriate medication
+
+0.9	A good interview after applying for a job may cause you to feel excited, hopeful, relieved, and confident.
+
+0.8	Sarah dropped the marble to see if it would bounce.
+
+0.8	The field general was told to send reinforcements when the enemy was near.
+
+0.8	Brownstones are likely to be found in cities like New York City, Brooklyn, and Boston.
+
+0.9	To cook ham, you can put it in an oven or on a stovetop.
+
+0.9	When you're in a reception area, you are waiting alongside other people who are also waiting.
+
+0.9	Committing murder can lead to legal consequences such as imprisonment or the death penalty.
+
+0	The question seems to be incomplete or unclear, so no specific answer can be provided.
+
+0.8	You can find a place to eat in an urban area close to local nightlife by looking for restaurants, cafes, or food trucks located near popular nightlife spots.
+
+0.8	Embracing a nomadic lifestyle and constantly moving from one place to another is one option if you do not want to settle in one place.
+
+0.9	A shopping mall has a revolving door and has things to buy in it.
+
+0.9	Eating beans and sitting down quickly could lead to flatulence or gas.
+
+0.8	The car ended up running smoothly after the work was done on it.
+
+0.9	James received coarse sandpaper instead of smooth sandpaper.
+
+1	Jumping in any of the oceans will make you wet.
+
+0.9	Remembering the past helped Jesse gain insights, learn from mistakes, and make better decisions in the present and future.
+
+0.9	Poker chips are likely to be found in casinos, poker rooms, or stores that sell gambling supplies.
+
+0.8	You could go to a park, a restaurant, a movie theater, or a bowling alley.
+
+1	The planet Mercury is unsuitable for human life.
+
+0.8	Consulting a manual or instruction manual provided the needed information to fix the issue.
+
+0.8	Sharks can be found in oceans around the world before they are caught.
+
+0.9	The computer could access websites, send and receive emails, download files, stream videos, and perform various online activities.
+
+1	A picture frame can be placed on a shelf, mantel, table, or any flat surface when it's not hung vertically.
+
+0.9	Books can be read in libraries, bookstores, schools, homes, and online.
+
+0.8	John was never difficult to talk to.
+
+0.9	Many stores with clothing can be found in shopping malls, department stores, and retail districts.
+
+0.8	The congregation began to file in to the church when the bell rang.
+
+0.9	A ferret is unlikely to be found in the ocean.
+
+0.9	You are in Indiana, as Fort Wayne is a city in Indiana known for its apple orchards.
+
+0.8	David might be in a nature reserve or a wildlife sanctuary.
+
+0.8	Janet was watching the film because she liked the plot.
+
+0.9	You would sit in a classroom or study area while working toward an advanced degree.
+
+0.8	A person might consider living in suburban areas or smaller towns that are close to the metro area but still have good schools.
+
+0.8	John might be in bed.
+
+0.9	You need energy to perform physical activities such as running, jumping, lifting weights, etc.
+
+0.8	A house outside the center of a community is said to be in a suburban area.
+
+0.9	You may place the telephone on a table, desk, shelf, or any flat surface.
+
+0.8	Running errands with screaming kids will likely cause stress and frustration.
+
+0.8	You could get a pen from a store, borrow one from someone, or find one in a public place.
+
+0.9	One way to express information to a deaf person is through sign language, such as American Sign Language (ASL) or other forms of manual communication. Written notes, gestures, facial expressions, and body language can also be used to convey information.
+
+0.9	Farm land is used for agricultural purposes such as growing crops or raising livestock.
+
+0.8	Religion can be hard to understand due to its complex and diverse nature, involving beliefs, practices, rituals, and traditions that vary greatly across different cultures and societies.
+
+0.8	The cancer patient was expecting to die, so he made out his will.
+
+0.9	Having a hangover is a common consequence of celebrating with too many cocktails.
+
+0.8	God will never lie according to religion.
+
+0.8	The rats were hiding in the attic.
+
+0.9	The teacher doesn't tolerate noise during a test in their classroom.
+
+0.8	The soccer field was the closest thing people had to a battlefield.
+
+0	It is unclear what 'a guy' refers to in this context, so no definite answer can be provided.
+
+0.8	Most people make coffee at home.
+
+0.9	A book that is not a foreword is likely to contain a table of contents, chapters, index, author's note, acknowledgements, etc.
+
+0.8	Wearing a waterproof swim cap or a shower cap can help a human cross a river without messing up their hair.
+
+0.8	To obtain a license to catch crabs, you would go to the Department of Fish and Wildlife or Department of Natural Resources.
+
+0.9	Cats are often known for their agility, independence, and hunting skills.
+
+0.8	To cook a potato, Joan should place it in an oven or microwave.
+
+0.8	Any restaurant is considered a Mexican restaurant in Mexico.
+
+0.8	Taking action is the first step to completing a job.
+
+0	The gimmicky low brow TV show was about animals when they what?
+
+0.8	Providing assistance to those in need is generally considered a positive and empathetic act.
+
+0.8	The Bering Sea is a very cold area in the east where a crab can be found.
+
+0.8	Geese migrate every fall in fields.
+
+0.8	Groceries of a traveler waiting at a bus stop got soaked by the rain due to limited mass transit in the city.
+
+0.8	The end of the barrel of a matchlock musket is bell shaped.
+
+0.9	After opening each gift, the child should thank the gift-giver as reminded by his father.
+
+0.8	An actor may seek out new and challenging roles, take a break from acting, or explore other creative outlets when they are bored of their roles.
+
+0.9	The parent would have to go to a store or shop to purchase the supplies.
+
+0.9	Billy set aside a block of time for having fun after work to relax, unwind, destress, and enjoy himself.
+
+0.8	The soldier was supposed to meet up with others or regroup at the rendezvous point.
+
+0.9	Beavers get their supplies for building, such as branches and logs, from the surrounding environment like forests and rivers.
+
+1	It is important to treat all individuals with respect and professionalism.
+
+0.8	Punk rock music is an important part of skateboarding.
+
+0.8	Someone is likely to want physical pleasure, emotional connection, intimacy, satisfaction, etc. as a result of sex.
+
+0.9	A folding chair would be used at a temporary outdoor event or gathering.
+
+0.8	Anemones can be found off the eastern U.S. in the Atlantic Ocean.
+
+0.8	Committing murder could prevent someone from living or continuing their life.
+
+0.9	During sleep, the body goes through various stages including light sleep, deep sleep, and REM sleep. The body repairs tissues, consolidates memories, and regulates hormones during sleep.
+
+0.8	They went to a specialized sushi restaurant or a Japanese restaurant known for serving blowfish (fugu)
+
+0.8	The hostess was good at her job, she always had a smile when she would welcome guests or greet customers
+
+0.9	Preserve and secure the crime scene to prevent contamination or tampering
+
+0.9	The sun is ultimately responsible for providing energy to sustain life on Earth through the process of photosynthesis.
+
+0.8	You can buy a two wheel transportation machine at a motorcycle dealership or online through websites like Amazon or eBay.
+
+1	George could still walk or move on foot.
+
+0.8	James might look for farmland in rural areas or agricultural regions.
+
+0.8	Access to vast amounts of information quickly
+
+0.8	James pressed himself against Holly's body while they were dancing together.
+
+0.8	The child had love and support for his mother despite not knowing the problems she was going through.
+
+0.8	A potato is likely to be stored in a cool, dark, and dry place like a cellar.
+
+0.8	People tend to buy products more during holiday seasons, such as Black Friday, Christmas, and Cyber Monday.
+
+0.8	He was found guilty of perjury.
+
+0.8	The trucker arrived at his destination.
+
+0.8	The small flying animal may be taking the string to build a nest or use it for nesting material.
+
+0.9	The Bible states that an apple tree led to the downfall of man.
+
+0.8	A large dining room containing a fancy chandelier is typically found in a luxury hotel or a high-end restaurant.
+
+0.8	Idaho is the official state vegetable of Idaho.
+
+0.8	The man had difficulty keeping track of conversations because he didn't want to listen.
+
+0.9	You can borrow furniture from friends, family, or rental companies.
+
+0.8	Marmots can be found in various regions of Canada, particularly in mountainous areas such as the Rocky Mountains and the Coast Mountains.
+
+0.8	The lizard has become accustomed to being fed by people and may rely on them for food.
