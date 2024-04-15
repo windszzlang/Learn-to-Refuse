@@ -1,6 +1,6 @@
 import torch
 import numpy as np
-from nltk.translate.bleu_score import corpus_bleu
+# from nltk.translate.bleu_score import corpus_bleu
 from rouge import Rouge
 if torch.cuda.is_available():
     # from bleurt import score
@@ -202,24 +202,32 @@ if __name__ == '__main__':
     pred = [p['answer'] for p in predictions]
     data = load_mc_data(data_path, 'mc1')
     gold = [D[2] for D in data]
+
     if output_path != 'wiki_rag':
         refusal = [[p['hard_refusal'], p['soft_refusal']] for p in predictions]
+
+        # ablation: w/o hard_refusal
+        # refusal = [[False, p['soft_refusal']] for p in predictions]
+        
+        # ablation: w/o soft_refusal
+        # refusal = [[p['hard_refusal'], False] for p in predictions]
+        
         pred, gold = filter_refused(pred, gold, refusal)
     res = evaluate_multiple_choice_1(pred, gold)
     print(res)
 
     ## mc2
     
-    predictions = gather_prediction('output/' + output_path + '_mc2', 'json')
-    pred = postprocess_predictions_for_mc2([p['answer'] for p in predictions])
-    data = load_mc_data(data_path, 'mc2')
-    gold = [D[2] for D in data]
-    if output_path != 'wiki_rag':
-        refusal = [[p['hard_refusal'], p['soft_refusal']] for p in predictions]
-        pred, gold = filter_refused(pred, gold, refusal)
-    option_nums = [len(D[1].strip().split('\n')) for D in data]
-    res = evaluate_multiple_choice_2(pred, gold, option_nums)
-    print(res)
+    # predictions = gather_prediction('output/' + output_path + '_mc2', 'json')
+    # pred = postprocess_predictions_for_mc2([p['answer'] for p in predictions])
+    # data = load_mc_data(data_path, 'mc2')
+    # gold = [D[2] for D in data]
+    # if output_path != 'wiki_rag':
+    #     refusal = [[p['hard_refusal'], p['soft_refusal']] for p in predictions]
+    #     pred, gold = filter_refused(pred, gold, refusal)
+    # option_nums = [len(D[1].strip().split('\n')) for D in data]
+    # res = evaluate_multiple_choice_2(pred, gold, option_nums)
+    # print(res)
 
 
     # compare

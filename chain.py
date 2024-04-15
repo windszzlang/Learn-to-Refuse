@@ -20,7 +20,7 @@ from langchain_community.document_loaders import UnstructuredFileLoader
 
 from prompts.knowledge_a import KNOWLEDGE_A_PROMPT_TEMPLATE
 from prompts.knowledge_q import KNOWLEDGE_Q_PROMPT_TEMPLATE
-from prompts.main_qa import MAIN_QA_PROMPT_TEMPLATE
+from prompts.main_qa import MAIN_QA_PROMPT_TEMPLATE, MAIN_QA_PROMPT_TEMPLATE_WO_STEP
 from prompts.qa2knowledge import QA2KNOWLEDGE_PROMPT_TEMPLATE
 
 
@@ -29,9 +29,10 @@ class L2R_Chain:
 
     threshold = 0.75
 
-    def __init__(self):
+    def __init__(self, step_by_step=True):
         self.openai_model = 'gpt-3.5-turbo-0613' # 'gpt-4'
         self.temperature = 0
+        self.step_by_step = step_by_step
 
         self.main_qa_chain = self._init_main_qa_chain()
         self.knowledge_question_chain = self._init_knowledge_question_chain()
@@ -45,7 +46,10 @@ class L2R_Chain:
 
     def _init_main_qa_chain(self) -> LLMChain:
         llm = ChatOpenAI(model_name=self.openai_model, temperature=self.temperature)
-        prompt = PromptTemplate(input_variables=['knowledge', 'question'], template=MAIN_QA_PROMPT_TEMPLATE)
+        if self.step_by_step:
+            prompt = PromptTemplate(input_variables=['knowledge', 'question'], template=MAIN_QA_PROMPT_TEMPLATE)
+        else:
+            prompt = PromptTemplate(input_variables=['knowledge', 'question'], template=MAIN_QA_PROMPT_TEMPLATE_WO_STEP)
         chain = LLMChain(llm=llm, prompt=prompt)
         return chain
 
