@@ -1,6 +1,6 @@
 # Learn-to-Refuse
 
-Code and data repo of the paper "[Learn to Refuse: Making Large Language Models More Controllable and Reliable through Knowledge Scope Limitation and Refusal Mechanism](https://arxiv.org/abs/2311.01041)"
+Code and data repo of the paper "[Learn to Refuse: Making Large Language Models More Controllable and Reliable through Knowledge Scope Limitation and Refusal Mechanism](https://arxiv.org/abs/2311.01041)", which has been accepted at the EMNLP 2024 Main Conference.
 
 ## Introduction
 
